@@ -1,0 +1,335 @@
+/* ============================================================
+   SOLANA WALLET ANALYZER — Cyberpunk Dark Theme
+   Renk Paleti:
+     Arkaplan 1 (en derin) : #0d0d1a
+     Arkaplan 2 (panel)    : #12121f
+     Arkaplan 3 (widget)   : #1a1a2e
+     Vurgu (mor/solana)    : #9945ff
+     Vurgu 2 (yeşil neon)  : #14f195
+     Metin ana             : #e0e0ff
+     Metin ikincil         : #8888aa
+     Sınır                 : #2a2a45
+     Hata                  : #ff3355
+   ============================================================ */
+
+/* ── Ana Pencere ─────────────────────────────────────────── */
+QMainWindow {
+    background-color: #0d0d1a;
+}
+
+QWidget {
+    background-color: #0d0d1a;
+    color: #e0e0ff;
+    font-family: "JetBrains Mono", "Consolas", "Courier New", monospace;
+    font-size: 13px;
+}
+
+/* ── Panel / Çerçeve ─────────────────────────────────────── */
+QFrame {
+    background-color: #12121f;
+    border: 1px solid #2a2a45;
+    border-radius: 8px;
+}
+
+QGroupBox {
+    background-color: #12121f;
+    border: 1px solid #2a2a45;
+    border-radius: 8px;
+    margin-top: 14px;
+    padding: 12px 8px 8px 8px;
+    color: #9945ff;
+    font-weight: bold;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    left: 12px;
+    top: -2px;
+    padding: 0 6px;
+    background-color: #0d0d1a;
+    color: #9945ff;
+}
+
+/* ── Giriş Alanı (QLineEdit) ─────────────────────────────── */
+QLineEdit {
+    background-color: #1a1a2e;
+    border: 1px solid #2a2a45;
+    border-radius: 6px;
+    padding: 10px 14px;
+    color: #14f195;
+    font-size: 13px;
+    selection-background-color: #9945ff;
+    selection-color: #ffffff;
+}
+
+QLineEdit:focus {
+    border: 1px solid #9945ff;
+    background-color: #1e1e35;
+    /* Solana mor parlaması */
+    border-color: #9945ff;
+}
+
+QLineEdit:hover {
+    border: 1px solid #4a4a7a;
+}
+
+QLineEdit::placeholder {
+    color: #444466;
+    font-style: italic;
+}
+
+/* ── Buton (QPushButton) ─────────────────────────────────── */
+QPushButton {
+    background-color: #9945ff;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    padding: 11px 28px;
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+QPushButton:hover {
+    background-color: #b06aff;
+}
+
+QPushButton:pressed {
+    background-color: #7a33cc;
+    padding-top: 13px;
+    padding-bottom: 9px;
+}
+
+QPushButton:disabled {
+    background-color: #2a2a45;
+    color: #555577;
+    letter-spacing: 1px;
+}
+
+/* İkincil / outline buton için özel nesne ismi: secondaryBtn */
+QPushButton#secondaryBtn {
+    background-color: transparent;
+    border: 1px solid #9945ff;
+    color: #9945ff;
+}
+
+QPushButton#secondaryBtn:hover {
+    background-color: #1e1e35;
+}
+
+/* ── Etiketler (QLabel) ──────────────────────────────────── */
+QLabel {
+    background-color: transparent;
+    color: #e0e0ff;
+    border: none;
+}
+
+/* Risk seviyesi için özel nesne ismi: riskLabel */
+QLabel#risk_label {
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: #14f195;
+    padding: 4px 0;
+}
+
+/* Yatırımcı tipi etiketi */
+QLabel#investor_label {
+    font-size: 14px;
+    color: #9945ff;
+    font-style: italic;
+}
+
+/* Başlık / section header etiketleri */
+QLabel#sectionHeader {
+    color: #8888aa;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+/* Durum çubuğu */
+QLabel#status_label {
+    color: #555577;
+    font-size: 11px;
+    padding: 4px 2px;
+}
+
+/* ── Metin Alanı (QTextEdit) ─────────────────────────────── */
+QTextEdit {
+    background-color: #12121f;
+    border: 1px solid #2a2a45;
+    border-radius: 6px;
+    padding: 12px;
+    color: #c8c8ee;
+    line-height: 1.6;
+    selection-background-color: #9945ff55;
+}
+
+QTextEdit:focus {
+    border-color: #4a4a7a;
+}
+
+/* ── Kaydırma Çubuğu ─────────────────────────────────────── */
+QScrollBar:vertical {
+    background-color: #0d0d1a;
+    width: 6px;
+    border: none;
+}
+
+QScrollBar::handle:vertical {
+    background-color: #2a2a45;
+    border-radius: 3px;
+    min-height: 30px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background-color: #9945ff;
+}
+
+QScrollBar::add-line:vertical,
+QScrollBar::sub-line:vertical {
+    height: 0;
+    border: none;
+}
+
+QScrollBar::add-page:vertical,
+QScrollBar::sub-page:vertical {
+    background: none;
+}
+
+QScrollBar:horizontal {
+    background-color: #0d0d1a;
+    height: 6px;
+    border: none;
+}
+
+QScrollBar::handle:horizontal {
+    background-color: #2a2a45;
+    border-radius: 3px;
+    min-width: 30px;
+}
+
+QScrollBar::handle:horizontal:hover {
+    background-color: #9945ff;
+}
+
+/* ── Araç Çubuğu / Durum Çubuğu ─────────────────────────── */
+QStatusBar {
+    background-color: #0a0a14;
+    color: #555577;
+    border-top: 1px solid #2a2a45;
+    font-size: 11px;
+}
+
+QToolBar {
+    background-color: #0a0a14;
+    border-bottom: 1px solid #2a2a45;
+    spacing: 4px;
+    padding: 4px;
+}
+
+/* ── Menü ────────────────────────────────────────────────── */
+QMenuBar {
+    background-color: #0a0a14;
+    color: #8888aa;
+    border-bottom: 1px solid #2a2a45;
+}
+
+QMenuBar::item:selected {
+    background-color: #1a1a2e;
+    color: #e0e0ff;
+}
+
+QMenu {
+    background-color: #12121f;
+    border: 1px solid #2a2a45;
+    border-radius: 6px;
+    padding: 4px;
+}
+
+QMenu::item {
+    padding: 8px 20px;
+    color: #c8c8ee;
+    border-radius: 4px;
+}
+
+QMenu::item:selected {
+    background-color: #1e1e35;
+    color: #9945ff;
+}
+
+QMenu::separator {
+    height: 1px;
+    background-color: #2a2a45;
+    margin: 4px 10px;
+}
+
+/* ── İlerleme Çubuğu ─────────────────────────────────────── */
+QProgressBar {
+    background-color: #1a1a2e;
+    border: 1px solid #2a2a45;
+    border-radius: 4px;
+    height: 6px;
+    text-align: center;
+    color: transparent;
+}
+
+QProgressBar::chunk {
+    background-color: #9945ff;
+    border-radius: 4px;
+}
+
+/* ── Tooltip ─────────────────────────────────────────────── */
+QToolTip {
+    background-color: #1e1e35;
+    color: #e0e0ff;
+    border: 1px solid #9945ff;
+    border-radius: 4px;
+    padding: 6px 10px;
+    font-size: 12px;
+}
+
+/* ── Sekme (QTabWidget) ──────────────────────────────────── */
+QTabWidget::pane {
+    background-color: #12121f;
+    border: 1px solid #2a2a45;
+    border-radius: 0 6px 6px 6px;
+}
+
+QTabBar::tab {
+    background-color: #0d0d1a;
+    color: #555577;
+    padding: 8px 20px;
+    border: 1px solid #2a2a45;
+    border-bottom: none;
+    border-radius: 6px 6px 0 0;
+    margin-right: 2px;
+}
+
+QTabBar::tab:selected {
+    background-color: #12121f;
+    color: #9945ff;
+    border-top-color: #9945ff;
+}
+
+QTabBar::tab:hover {
+    color: #c8c8ee;
+    background-color: #1a1a2e;
+}
+
+/* ── Splitter ────────────────────────────────────────────── */
+QSplitter::handle {
+    background-color: #2a2a45;
+    width: 2px;
+    height: 2px;
+}
+
+QSplitter::handle:hover {
+    background-color: #9945ff;
+}
