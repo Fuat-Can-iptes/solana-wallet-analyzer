@@ -333,3 +333,66 @@ QSplitter::handle {
 QSplitter::handle:hover {
     background-color: #9945ff;
 }
+/* ── Tablo ───────────────────────────────────────────────── */
+QTableWidget {
+    background-color: #12121f;
+    border: 1px solid #2a2a45;
+    border-radius: 6px;
+    gridline-color: #2a2a45;
+    color: #e0e0ff;
+}
+
+QTableWidget::item {
+    padding: 6px 10px;
+    border: none;
+    color: #e0e0ff;
+}
+
+QTableWidget::item:selected {
+    background-color: #1e1e35;
+    color: #9945ff;
+}
+
+QHeaderView::section {
+    background-color: #1a1a2e;
+    color: #8888aa;
+    border: none;
+    border-bottom: 1px solid #2a2a45;
+    padding: 6px 10px;
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+QHeaderView::section:first {
+    border-top-left-radius: 6px;
+}
+
+QHeaderView::section:last {
+    border-top-right-radius: 6px;
+}
+
+/* ── Sidebar Liste ───────────────────────────────────────── */
+QListWidget {
+    background-color: #0d0d1a;
+    border: 1px solid #2a2a45;
+    border-radius: 6px;
+    color: #c8c8ee;
+    outline: none;
+}
+
+QListWidget::item {
+    padding: 8px 10px;
+    border-bottom: 1px solid #1a1a2e;
+    border-radius: 4px;
+}
+
+QListWidget::item:selected {
+    background-color: #1e1e35;
+    color: #9945ff;
+    border-left: 2px solid #9945ff;
+}
+
+QListWidget::item:hover {
+    background-color: #15152a;
+}

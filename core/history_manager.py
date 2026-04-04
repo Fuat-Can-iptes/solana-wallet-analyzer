@@ -29,15 +29,17 @@ class HistoryManager:
         with open(HISTORY_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
-    def save_analysis(self, wallet: str, result: dict, portfolio: list):
-        """Analiz sonucunu ve portföyü kaydeder."""
+    def save_analysis(self, wallet: str, result: dict,
+                  portfolio: list, pnl: dict = None):
         data = self._load()
         data[wallet] = {
-            "wallet": wallet,
-            "result": result,
-            "portfolio": portfolio,
-            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M"),
+            "wallet":     wallet,
+            "result":     result,
+            "portfolio":  portfolio,
+            "pnl":        pnl or {},
+            "timestamp":  datetime.now().strftime("%Y-%m-%d %H:%M"),
             "last_signature": None,
+            "watched":      False,
         }
         self._save(data)
 

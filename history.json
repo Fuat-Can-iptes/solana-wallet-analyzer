@@ -26551,1149 +26551,2169 @@
     "wallet": "CuieVDEDtLo7FypA9SbLM9saXFdb1dsshEkyErMqkRQq",
     "result": {
       "risk_level": "YÜKSEK",
-      "investor_type": "Kripto Korsanı",
-      "analysis": "Bu cüzdan, yüksek frekanslı transfer ve swap işlemleri nedeniyle yüksek riskli olarak değerlendiriliyor. Cüzdan, genellikle USDC ve SOL gibi tokenları tutuyor ve sıkça işlem yapıyor. Cüzdanın davranışları, spekülatif bir yatırım stratejisi izlediği görüşünü destekliyor.",
+      "investor_type": "Kripto Kaosu Savaşçısı",
+      "analysis": "Bu cüzdanın işlem örüntüleri, yüksek sıklıkta ve çeşitli tokenlar ile transfer ve swap işlemlerini gösteriyor. Özellikle USDC ve SOL ile yapılan swap işlemleri dikkat çekiyor. Cüzdanın đa token tutması ve sık işlem yapması, yüksek risk seviyesini işaret ediyor.",
       "recommendations": [
         {
-          "action": "Diversify token portföyü",
-          "reason": "Cüzdanın tek bir token türüne bağımlı olduğu görülüyor. Farklı token türlerine yatırım yaparak riski dağıtmak mantıklı olabilir.",
+          "action": "Diversifikasyonu artır",
+          "reason": "Cüzdanın đa token tutması, riski dağıtmaya yardımcı olabilir. Ancak, yüksek miktarda düşük价值 tokenların tutulması, portföyün değerini düşürüyor.",
           "risk": "orta"
         },
         {
-          "action": "SOL stake etme",
-          "reason": "Cüzdanın SOL tokenlarına sahip olduğu görülüyor. SOL stake ederek pasif gelir elde edilebilir.",
+          "action": "SOL stake et",
+          "reason": "SOL stake etme, pasif gelir elde etmeye yardımcı olabilir ve portföyün değerini artırabilir.",
           "risk": "düşük"
         },
         {
-          "action": "Stablecoin oranını artırma",
-          "reason": "Cüzdanın yüksek riskli işlemleri nedeniyle, daha stable bir portföy oluşturmak için stablecoin oranını artırarak riski azaltmak möglich olabilir.",
+          "action": "Stablecoin oranını artır",
+          "reason": "Stablecoin, portföyün değerini stabilize etmeye yardımcı olabilir ve riski azaltabilir.",
           "risk": "düşük"
         }
       ]
     },
     "portfolio": [
       {
-        "amount": 14482026819977.0,
-        "mint": "8BJxFGU12xt1KPpPU9LoBxJiYLGDHY5MWYmVB3UohT5b",
-        "name": "8BJxFGU1...hT5b"
-      },
-      {
-        "amount": 11830236622039.0,
-        "mint": "EHw3F8uPt9yHhrMVDRTLuMzpYnAsab4CqYzt2jzfwEnr",
-        "name": "EHw3F8uP...wEnr"
-      },
-      {
-        "amount": 270000000.0,
-        "mint": "o1Mw5Y3n68o8TakZFuGKLZMGjm72qv4JeoZvGiCLEvK",
-        "name": "o1Mw5Y3n...LEvK"
-      },
-      {
-        "amount": 89033565.0,
-        "mint": "BfRaCawrKBVXp7znfiiGnuXPzxTPUSrXC9So6YYi5bUD",
-        "name": "BfRaCawr...5bUD"
-      },
-      {
-        "amount": 88037485.0,
-        "mint": "NcW9HtX3a4A875Af2CYo1groV5PgNoq6JGVvy4q52C2",
-        "name": "NcW9HtX3...52C2"
-      },
-      {
-        "amount": 76406484.0,
-        "mint": "CGJEJvZqyDeMpcbu32V9pxFauhr2tRGeN386QDAtayC7",
-        "name": "CGJEJvZq...ayC7"
-      },
-      {
-        "amount": 6339531.0,
-        "mint": "FRoQotMnoD92sWUBGe4GVfxNAgjwecJkVp9fjuJNgvtM",
-        "name": "FRoQotMn...gvtM"
-      },
-      {
-        "amount": 2000000.0,
-        "mint": "7ViSurf5Ve2a8qDWFYsfU8GFmRttQvS5paJ8L94QZgo7",
-        "name": "7ViSurf5...Zgo7"
-      },
-      {
-        "amount": 1509999.0,
-        "mint": "72hgmvS5zFxaFJfMizq6Gp4gjBqXjTPyX9GDP38krorQ",
-        "name": "72hgmvS5...rorQ"
-      },
-      {
-        "amount": 1331018.3,
-        "mint": "HEmgGwgn6naqNatkU9ST2wHa4X9HRMmxE7qE8vWuV7L2",
-        "name": "HEmgGwgn...V7L2"
-      },
-      {
-        "amount": 1042955.0,
-        "mint": "7Lo2LfJsDUhaUn8o1PYgrkAw4HjAQWEgJFqPdLF54wn7",
-        "name": "7Lo2LfJs...4wn7"
-      },
-      {
-        "amount": 1035351.0,
-        "mint": "9LhS9DS7i8iVRfzejBHuaKKnTpauBamDAaD4BpQyPMKB",
-        "name": "9LhS9DS7...PMKB"
-      },
-      {
-        "amount": 1033597.0,
-        "mint": "7ABpNWSaCtJuKf2VHyXADi6vQNnm54ASe8FGEkgRuFxY",
-        "name": "7ABpNWSa...uFxY"
-      },
-      {
-        "amount": 1000000.0,
-        "mint": "HPNnvqceRGGBqodLAtt1dy3CLyp4MY1zuRHaosfUZpj2",
-        "name": "HPNnvqce...Zpj2"
-      },
-      {
-        "amount": 1000000.0,
-        "mint": "B3DWEUG2zhKTtCwuixfcV6yd5yiLHVBCL4KmjBpiBEfg",
-        "name": "B3DWEUG2...BEfg"
-      },
-      {
-        "amount": 625000.0,
-        "mint": "5YtGSyQ7YxFgDc9oj4SpZGTjoS5p5Fubkg8sMauQqXoS",
-        "name": "5YtGSyQ7...qXoS"
-      },
-      {
-        "amount": 600000.0,
-        "mint": "Dhg9XnzJWzSQqH2aAnhPTEJHGQAkALDfD98MA499A7pa",
-        "name": "Dhg9XnzJ...A7pa"
-      },
-      {
-        "amount": 500001.0,
-        "mint": "9MhNoxy1PbmEazjPo9kiZPCcG7BiFbhi3bWZXZgacfpp",
-        "name": "9MhNoxy1...cfpp"
-      },
-      {
-        "amount": 444816.0,
-        "mint": "7SZUnH7H9KptyJkUhJ5L4Kee5fFAbqVgCHvt7B6wg4Xc",
-        "name": "7SZUnH7H...g4Xc"
-      },
-      {
-        "amount": 420000.0,
-        "mint": "Fse2oFDfbwT89CqtuoFaHCBnGTMFLartDYDjPLZyc7e",
-        "name": "Fse2oFDf...yc7e"
-      },
-      {
-        "amount": 269000.0,
-        "mint": "CBPfSGeSf76o3r4628k7BcZ5YBNxHh7hkCzu4AmVgk2Q",
-        "name": "CBPfSGeS...gk2Q"
-      },
-      {
-        "amount": 200000.0,
-        "mint": "56tNQ29XBrbovm5K5SThuQatjCy92w2wKUaUeQ8WCD9g",
-        "name": "56tNQ29X...CD9g"
-      },
-      {
-        "amount": 157878.0,
-        "mint": "2bXBmaYJwJfj5Cu8TDqLLrW1b9L7dK6sLgKoBBYRBzTH",
-        "name": "2bXBmaYJ...BzTH"
-      },
-      {
-        "amount": 100000.0,
-        "mint": "43nugMCbD2J7BDiDDTxUD15jcLnexdPtftPdANYy9tc6",
-        "name": "43nugMCb...9tc6"
-      },
-      {
-        "amount": 76000.0,
-        "mint": "DrcPRJPBiakQcWqon3gZms7sviAqdQS5zS5wvaG5v6wu",
-        "name": "DrcPRJPB...v6wu"
-      },
-      {
-        "amount": 70955.0,
-        "mint": "DioRxJZYzySc7c38tcM1sUvYS89TWLpcADSuxXhceSXa",
-        "name": "DioRxJZY...eSXa"
-      },
-      {
-        "amount": 69000.0,
-        "mint": "GaKwGHbdQut6nNtyKfU9YfD7emAASg5RJ4kMKmrA4Utb",
-        "name": "GaKwGHbd...4Utb"
-      },
-      {
-        "amount": 60400.0,
-        "mint": "YtfMZ4jg2ubdz4GasY86iuGjHdo5rCPJnFqgSf8gxAz",
-        "name": "YtfMZ4jg...gxAz"
-      },
-      {
-        "amount": 50000.0,
-        "mint": "FZTfdpD9DzgqMDjgNrmShDsyd5MYkwQ4k1jLq1ecrmnd",
-        "name": "FZTfdpD9...rmnd"
-      },
-      {
-        "amount": 45000.0,
-        "mint": "Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8",
-        "name": "Amt5wUJR...EuY8"
-      },
-      {
-        "amount": 33333.0,
-        "mint": "8NFa3QXg3kKqvdmJNjUhzqwvAnUYA9F5R4ymyjJfHcVB",
-        "name": "8NFa3QXg...HcVB"
-      },
-      {
-        "amount": 30590.0,
-        "mint": "FHhVb6ipzDUKKNjr5uNdEYvtrAjCM4AST1sU3CzBdEVP",
-        "name": "FHhVb6ip...dEVP"
-      },
-      {
-        "amount": 20000.0,
-        "mint": "HAgX1HSfok8DohiNCS54FnC2UJkDSrRVnT38W3iWFwc8",
-        "name": "HAgX1HSf...Fwc8"
-      },
-      {
-        "amount": 20000.0,
-        "mint": "DiJWJ6hgV7Vm5JP6SU7xvo7nULR14UvrGoWmSu34fEvZ",
-        "name": "DiJWJ6hg...fEvZ"
-      },
-      {
-        "amount": 20000.0,
-        "mint": "Fg3NLKzwfnhtiEjnbn86wcZiGckuL5bzf61JGSqFi4ot",
-        "name": "Fg3NLKzw...i4ot"
-      },
-      {
-        "amount": 19800.0,
-        "mint": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
-        "name": "F6v4wfAd...Yx9W"
-      },
-      {
-        "amount": 17707.581558,
-        "mint": "SLT3iSYKeBuCyxvnfij4RUhMfKxZCY3s12Z5pfkTXhV",
-        "name": "SLT3iSYK...TXhV"
-      },
-      {
-        "amount": 16666.0,
-        "mint": "GM4CTEsNsU5Kg22JNKkANTannrBU9Ah6SNa3BcyBA6Kj",
-        "name": "GM4CTEsN...A6Kj"
-      },
-      {
-        "amount": 11528.0,
-        "mint": "SAMUmmSvrE8yqtcG94oyP1Zu2P9t8PSRSV3vewsGtPM",
-        "name": "SAMUmmSv...GtPM"
-      },
-      {
-        "amount": 10000.0,
-        "mint": "8AuH7UW39AUFA1rtSisaihG9RKcwV2W4xtcKCzLWpump",
-        "name": "8AuH7UW3...pump"
-      },
-      {
-        "amount": 9999.0,
-        "mint": "2TyHMAt6cDzeBYeQHbqYznqjka77uy2DxC6gM7qNpump",
-        "name": "2TyHMAt6...pump"
-      },
-      {
-        "amount": 9200.0,
-        "mint": "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz",
-        "name": "EZF2sPJR...nTQz"
-      },
-      {
-        "amount": 6064.906703,
-        "mint": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
-        "name": "8wv2KAyk...mGvE"
-      },
-      {
-        "amount": 5023.000003023,
-        "mint": "BKydRTNdaMJ8B4zPva3YhwUQcpvAsyZaGJnKA6F44fX7",
-        "name": "BKydRTNd...4fX7"
-      },
-      {
-        "amount": 5000.0,
-        "mint": "4dydh8EGNEdTz6grqnGBxpduRg55eLnwNZXoNZJetadu",
-        "name": "4dydh8EG...tadu"
-      },
-      {
-        "amount": 4720.9,
-        "mint": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
-        "name": "MERt85fc...au5K"
-      },
-      {
-        "amount": 3800.0,
-        "mint": "EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96",
-        "name": "EdAhkbj5...YE96"
-      },
-      {
-        "amount": 2766.909,
-        "mint": "A9ik2NrpKRRG2snyTjofZQcTuav9yH3mNVHLsLiDQmYt",
-        "name": "A9ik2Nrp...QmYt"
-      },
-      {
-        "amount": 2430.0,
-        "mint": "9v3XifoZUSrN9gg9BC8Daywp6Wo7QPvv1R8sLzQgNNZJ",
-        "name": "9v3XifoZ...NNZJ"
-      },
-      {
-        "amount": 2331.0,
-        "mint": "3m7A2A8HHdqmiDrjAfaddj7Hxd88FrBHA1KSoqjoELtu",
-        "name": "3m7A2A8H...ELtu"
-      },
-      {
-        "amount": 2010.0,
-        "mint": "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
-        "name": "5jFnsfx3...Fzko"
-      },
-      {
-        "amount": 2000.0,
-        "mint": "5cKFNtooCQSkLhdFukk8R3PTdT4Rvm9cJr8Et49TxchR",
-        "name": "5cKFNtoo...xchR"
-      },
-      {
-        "amount": 1600.0,
-        "mint": "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
-        "name": "4wjPQJ6P...Buhj"
-      },
-      {
-        "amount": 1420.69,
-        "mint": "E6UU5M1z4CvSAAF99d9wRoXsasWMEXsvHrz3JQRXtm2X",
-        "name": "E6UU5M1z...tm2X"
-      },
-      {
-        "amount": 1337.0,
-        "mint": "9RxQeMi2MRjiFU2ZfPWirP8M242KMhoyW9SB1UvfVXhu",
-        "name": "9RxQeMi2...VXhu"
-      },
-      {
-        "amount": 1000.0,
-        "mint": "HfMVgG3fQr45JtrQD3jpVki6E5H5BSdjN8kCAvDEDKMQ",
-        "name": "HfMVgG3f...DKMQ"
-      },
-      {
-        "amount": 778.0,
-        "mint": "GdK4LNeHCMnBgWJewgeJ11usnd59UHQ7avUmVmFomUz3",
-        "name": "GdK4LNeH...mUz3"
-      },
-      {
-        "amount": 700.0,
-        "mint": "GmfGJqZG4y5z4gHHYZafDPUQURVuecYkxYTZQHyhQ8J",
-        "name": "GmfGJqZG...hQ8J"
-      },
-      {
-        "amount": 700.0,
-        "mint": "4CPQAbVymssxbmDDhLVUJXy26aoRrco3scnp7ib5nXke",
-        "name": "4CPQAbVy...nXke"
-      },
-      {
-        "amount": 600.0,
-        "mint": "6uZ7MRGGf3FJhzk9TUk3QRMR2fz83WY9BEVBukRvMRVX",
-        "name": "6uZ7MRGG...MRVX"
-      },
-      {
-        "amount": 567.0,
-        "mint": "HkNK7BL5pSUUzc6ns1mHW5JnzbSG4S9u2QdR3cUuyzSa",
-        "name": "HkNK7BL5...yzSa"
-      },
-      {
-        "amount": 500.0,
-        "mint": "7Y5VS96FJJXRn98wGB5UhaWhDttkhdPoAb4QeGzy453w",
-        "name": "7Y5VS96F...453w"
-      },
-      {
-        "amount": 500.0,
-        "mint": "GXnw9YSt6DANCt84Ti6ZpbaXvrvuEJFCYqrDjygnq4R8",
-        "name": "GXnw9YSt...q4R8"
-      },
-      {
-        "amount": 300.0,
-        "mint": "5HbkoVbaMnJYEuiTqeC7cBMSK2zG2MFfoxc9e6VkWPQS",
-        "name": "5HbkoVba...WPQS"
-      },
-      {
-        "amount": 252.48,
-        "mint": "DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc",
-        "name": "DJafV9qe...k9kc"
-      },
-      {
-        "amount": 200.0,
-        "mint": "H6JocWxg5g1Lcs4oPnBecmjQ4Y1bkZhGJHtjMunmjyrp",
-        "name": "H6JocWxg...jyrp"
-      },
-      {
-        "amount": 200.0,
-        "mint": "GZnmKhbMBhyotxXK5RTBritcT58MgyMwSwGZC77fdo1n",
-        "name": "GZnmKhbM...do1n"
-      },
-      {
-        "amount": 200.0,
-        "mint": "DfP3GKcq86B6VzGQrG3iupRWwqWcWnLndvFC2FTYKxiT",
-        "name": "DfP3GKcq...KxiT"
-      },
-      {
-        "amount": 132.0,
-        "mint": "BUCRaErcqwD4iUJDYh1BAJ9nzzCchqb9spxBhFno6deA",
-        "name": "BUCRaErc...6deA"
-      },
-      {
-        "amount": 125.0,
-        "mint": "4UuGQgkD3rSeoXatXRWwRfRd21G87d5LiCfkVzNNv1Tt",
-        "name": "4UuGQgkD...v1Tt"
-      },
-      {
-        "amount": 118.150498657,
-        "mint": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
-        "name": "StepAscQ...DpyT"
-      },
-      {
-        "amount": 100.0,
-        "mint": "EiDBV9z8grxc7TmJHBvJ2rSAL7PrqjrTjLgS7Feqztqn",
-        "name": "EiDBV9z8...ztqn"
-      },
-      {
-        "amount": 100.0,
-        "mint": "FvB3QSa6rZHAbmT63zVg94XwD3P85b9HpudA3xtFqEhF",
-        "name": "FvB3QSa6...qEhF"
-      },
-      {
-        "amount": 100.0,
-        "mint": "21jZ1ESEFYh9SBwjT5gqE3jHv3JnaGhgvypLTR96QXW9",
-        "name": "21jZ1ESE...QXW9"
-      },
-      {
-        "amount": 100.0,
-        "mint": "CSE6pyuMZn1JtdZbtDg6wo7tXJJPKutWezfkon97c3NS",
-        "name": "CSE6pyuM...c3NS"
-      },
-      {
-        "amount": 100.0,
-        "mint": "5AatLCbXP8cektqUmTcxqYrjfy9CU3t7B3U1RxNNmfdE",
-        "name": "5AatLCbX...mfdE"
-      },
-      {
-        "amount": 88.0,
-        "mint": "Ae1aeYK9WrB2kP29jJU4aUUK7Y1vzsGNZFKoe4BG2h6P",
-        "name": "Ae1aeYK9...2h6P"
-      },
-      {
-        "amount": 77.7,
-        "mint": "RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a",
-        "name": "RLBxxFks...pL7a"
-      },
-      {
-        "amount": 77.6,
-        "mint": "3jzdrXXKxwkBk82u2eCWASZLCKoZs1LQTg87HBEAmBJw",
-        "name": "3jzdrXXK...mBJw"
-      },
-      {
-        "amount": 60.0,
-        "mint": "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
-        "name": "9tzZzEHs...TEoh"
-      },
-      {
-        "amount": 54.754982,
-        "mint": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
-        "name": "AFbX8oGj...2AdB"
-      },
-      {
-        "amount": 50.0,
-        "mint": "6s34xkPDqmqQndhbhAWEyx4SnyDSrKgiewouNYeYRvjf",
-        "name": "6s34xkPD...Rvjf"
-      },
-      {
-        "amount": 50.0,
-        "mint": "Hf7oUc1PgenzBXN81VhBCDG13mq9MEzje5bQ38zLex3V",
-        "name": "Hf7oUc1P...ex3V"
-      },
-      {
-        "amount": 31.0,
-        "mint": "9qmnLxS4U1MdNszBzY12YQaJ6gnqXgQAAdAAF6yYFV4m",
-        "name": "9qmnLxS4...FV4m"
-      },
-      {
-        "amount": 27.88948,
-        "mint": "AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb",
-        "name": "AD27ov5f...SVGb"
-      },
-      {
-        "amount": 25.0,
-        "mint": "68jbAkL4V7e2zXKHxxSrMYiHbGakbmSCbKjGN7MApHJV",
-        "name": "68jbAkL4...pHJV"
-      },
-      {
-        "amount": 24.0,
-        "mint": "GxX2h6KxsCp6QSte5yJdfaNK448w5GLPgmFDJaqT9peR",
-        "name": "GxX2h6Kx...9peR"
-      },
-      {
         "amount": 20.0,
-        "mint": "AVKnbqNQgXDY8kbnno9eSGfwpVz5idimBnDKiz1vbWAh",
-        "name": "AVKnbqNQ...bWAh"
-      },
-      {
-        "amount": 20.0,
-        "mint": "HEhMLvpSdPviukafKwVN8BnBUTamirptsQ6Wxo5Cyv8s",
-        "name": "HEhMLvpS...yv8s"
-      },
-      {
-        "amount": 20.0,
-        "mint": "Qikhhhg9Ta3Jg7WoDFbSYuCAE14hx9hPvdz1zVp3zUw",
-        "name": "Qikhhhg9...3zUw"
-      },
-      {
-        "amount": 20.0,
+        "full_name": "Future FTRX token",
         "mint": "FTRXzsBabF1eYux54KbZxAN27W7o5AquN21wNLjKzJpr",
-        "name": "FTRXzsBa...zJpr"
-      },
-      {
-        "amount": 10.0,
-        "mint": "ALKiRVrfLgzeAV2mCT7cJHKg3ZoPvsCRSV7VCRWnE8zQ",
-        "name": "ALKiRVrf...E8zQ"
-      },
-      {
-        "amount": 10.0,
-        "mint": "6cH34XtzNgCDwb7NFbiji1a1N8F3FgmXTrFxvzBZNVui",
-        "name": "6cH34Xtz...NVui"
-      },
-      {
-        "amount": 10.0,
-        "mint": "ArdsPHY5LsCjvxSxZz8f3vTkv5qoYihmCCPMYvr6aQza",
-        "name": "ArdsPHY5...aQza"
-      },
-      {
-        "amount": 10.0,
-        "mint": "5tWQEHefEPEE6k27EAFygHhmMcq41NcXDuxfGSmHT16L",
-        "name": "5tWQEHef...T16L"
-      },
-      {
-        "amount": 10.0,
-        "mint": "F4Y478Q5enMZVYx44MSYKRuSr8B64MRHbU9d5XqHdKM5",
-        "name": "F4Y478Q5...dKM5"
-      },
-      {
-        "amount": 10.0,
-        "mint": "PotzPaFGzK3cbu1u3g5HtoZbyTUkyhka8T2aBy8LMEq",
-        "name": "PotzPaFG...LMEq"
-      },
-      {
-        "amount": 10.0,
-        "mint": "2pNLzaGGYdL3u5qy5CybnP196CzuRf6crJ1VNpd4tmPu",
-        "name": "2pNLzaGG...tmPu"
-      },
-      {
-        "amount": 9.0,
-        "mint": "FPYXBYLnzWcA72WxDDaaq6LHDsu1V2g3pjQ4APz1diky",
-        "name": "FPYXBYLn...diky"
-      },
-      {
-        "amount": 8.0,
-        "mint": "5TPYH5sMvFMitzsjzM9xrxq5igpVuGugVu8CLzCrFdFW",
-        "name": "5TPYH5sM...FdFW"
-      },
-      {
-        "amount": 7.0,
-        "mint": "A2CHAq8NDrrhzLKoUmHXAWjszVQe8iXoHSXjCYyaEAZH",
-        "name": "A2CHAq8N...EAZH"
-      },
-      {
-        "amount": 7.0,
-        "mint": "iobVLW6ePUrcX7Y4DzW69QDpQt2CkJ6c3SZmaLozibj",
-        "name": "iobVLW6e...zibj"
-      },
-      {
-        "amount": 7.0,
-        "mint": "BEgBsVSKJSxreiCE1XmWWq8arnwit7xDqQXSWYgay9xP",
-        "name": "BEgBsVSK...y9xP"
-      },
-      {
-        "amount": 6.0,
-        "mint": "FriCEbw1V99GwrJRXPnSQ6su2TabHabNxiZ3VNsVFPPN",
-        "name": "FriCEbw1...FPPN"
-      },
-      {
-        "amount": 6.0,
-        "mint": "EwHqbMUMX33JjWAhxSg9vsX3miWqncsgpnAbqn9nhJwZ",
-        "name": "EwHqbMUM...hJwZ"
+        "name": "FTRXzsBa...zJpr",
+        "symbol": "FTRX",
+        "usd_price": 0.4292,
+        "usd_value": 8.584
       },
       {
         "amount": 5.993604,
+        "full_name": "Raydium",
         "mint": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
-        "name": "4k3Dyjzv...kX6R"
+        "name": "4k3Dyjzv...kX6R",
+        "symbol": "RAY",
+        "usd_price": 0.6235,
+        "usd_value": 3.7370120940000007
       },
       {
         "amount": 5.0,
+        "full_name": "BRZ",
         "mint": "FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD",
-        "name": "FtgGSFAD...u4GD"
+        "name": "FtgGSFAD...u4GD",
+        "symbol": "BRZ",
+        "usd_price": 0.1607,
+        "usd_value": 0.8035000000000001
       },
       {
-        "amount": 5.0,
-        "mint": "9cUzV49LN8AJXSwrhgKzZvSSaHyk6pdwLYBJXPjK2JFA",
-        "name": "9cUzV49L...2JFA"
+        "amount": 19800.0,
+        "full_name": "LUNA (Wormhole)",
+        "mint": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+        "name": "F6v4wfAd...Yx9W",
+        "symbol": "LUNA",
+        "usd_price": 3.88e-05,
+        "usd_value": 0.76824
       },
       {
-        "amount": 5.0,
-        "mint": "DL23jAY3qCG7G9W1fSQETzMjLmwUL9hKmiwEedCDK9ww",
-        "name": "DL23jAY3...K9ww"
+        "amount": 1600.0,
+        "full_name": "LIQ Protocol",
+        "mint": "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
+        "name": "4wjPQJ6P...Buhj",
+        "symbol": "LIQ",
+        "usd_price": 0.00046,
+        "usd_value": 0.736
       },
       {
-        "amount": 5.0,
-        "mint": "DVcMVQj49HHRaRrjZSkyK4qBNgeo8QUWBUTddoC97xvB",
-        "name": "DVcMVQj4...7xvB"
+        "amount": 20000.0,
+        "full_name": "SOL-CATS",
+        "mint": "HAgX1HSfok8DohiNCS54FnC2UJkDSrRVnT38W3iWFwc8",
+        "name": "HAgX1HSf...Fwc8",
+        "symbol": "MEOW",
+        "usd_price": 2.323e-05,
+        "usd_value": 0.4646
       },
       {
         "amount": 4.0,
+        "full_name": "Basic Attention Token (Wormhole)",
         "mint": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
-        "name": "EPeUFDgH...1Tpz"
+        "name": "EPeUFDgH...1Tpz",
+        "symbol": "BAT",
+        "usd_price": 0.09614,
+        "usd_value": 0.38456
       },
       {
-        "amount": 3.0,
-        "mint": "EoqJXTxCc67i18B7nwWs59RBkTe8rStTreRhCCq1eVTH",
-        "name": "EoqJXTxC...eVTH"
+        "amount": 4720.9,
+        "full_name": "Mercurial",
+        "mint": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
+        "name": "MERt85fc...au5K",
+        "symbol": "MER",
+        "usd_price": 3.422e-05,
+        "usd_value": 0.161549198
       },
       {
-        "amount": 3.0,
-        "mint": "8EHQAKD5BDQGaxDWK8sTeHP9Fs1AVC2ZVfoNMV6b8m46",
-        "name": "8EHQAKD5...8m46"
+        "amount": 54.754982,
+        "full_name": "GST",
+        "mint": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
+        "name": "AFbX8oGj...2AdB",
+        "symbol": "GST",
+        "usd_price": 0.00171,
+        "usd_value": 0.09363101922
       },
       {
-        "amount": 3.0,
-        "mint": "8vmfpC295wnxH7mnPw3GpfvD9mCCdJBj81mPfe9PL9Wi",
-        "name": "8vmfpC29...L9Wi"
+        "amount": 270000000.0,
+        "full_name": "Cope",
+        "mint": "o1Mw5Y3n68o8TakZFuGKLZMGjm72qv4JeoZvGiCLEvK",
+        "name": "o1Mw5Y3n...LEvK",
+        "symbol": "Cope",
+        "usd_price": 2.488e-10,
+        "usd_value": 0.067176
+      },
+      {
+        "amount": 27.88948,
+        "full_name": "Realy Token",
+        "mint": "AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb",
+        "name": "AD27ov5f...SVGb",
+        "symbol": "REAL",
+        "usd_price": 0.001861,
+        "usd_value": 0.051902322279999996
+      },
+      {
+        "amount": 77.7,
+        "full_name": "Rollbit Coin",
+        "mint": "RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a",
+        "name": "RLBxxFks...pL7a",
+        "symbol": "RLB",
+        "usd_price": 0.0002719,
+        "usd_value": 0.02112663
+      },
+      {
+        "amount": 118.150498657,
+        "full_name": "Step",
+        "mint": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+        "name": "StepAscQ...DpyT",
+        "symbol": "STEP",
+        "usd_price": 0.0001618,
+        "usd_value": 0.0191167506827026
+      },
+      {
+        "amount": 9200.0,
+        "full_name": "FUMoney",
+        "mint": "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz",
+        "name": "EZF2sPJR...nTQz",
+        "symbol": "FUM",
+        "usd_price": 1.777e-06,
+        "usd_value": 0.016348400000000003
+      },
+      {
+        "amount": 5023.000003023,
+        "full_name": "FakeBiz",
+        "mint": "BKydRTNdaMJ8B4zPva3YhwUQcpvAsyZaGJnKA6F44fX7",
+        "name": "BKydRTNd...4fX7",
+        "symbol": "FBZ",
+        "usd_price": 2.053e-06,
+        "usd_value": 0.01031221900620622
+      },
+      {
+        "amount": 10.0,
+        "full_name": "PotCoin",
+        "mint": "PotzPaFGzK3cbu1u3g5HtoZbyTUkyhka8T2aBy8LMEq",
+        "name": "PotzPaFG...LMEq",
+        "symbol": "POT",
+        "usd_price": 0.0008725,
+        "usd_value": 0.008725
+      },
+      {
+        "amount": 1420.69,
+        "full_name": "Dogelana",
+        "mint": "E6UU5M1z4CvSAAF99d9wRoXsasWMEXsvHrz3JQRXtm2X",
+        "name": "E6UU5M1z...tm2X",
+        "symbol": "DGLN",
+        "usd_price": 4.039e-06,
+        "usd_value": 0.00573816691
       },
       {
         "amount": 2.0,
-        "mint": "678oGX9JCP86hiiFeetfhNM8sLEyHfEQSZzytqdFyQQj",
-        "name": "678oGX9J...yQQj"
-      },
-      {
-        "amount": 2.0,
-        "mint": "2hWrFTaGYXNLEVnTdvYPF5roxp4NSygoC8BYWYHYLuXd",
-        "name": "2hWrFTaG...LuXd"
-      },
-      {
-        "amount": 2.0,
-        "mint": "HdjMPYYKaAgHr6Son56hGaSP3CEkDvD67bVzGuVgfz8S",
-        "name": "HdjMPYYK...fz8S"
-      },
-      {
-        "amount": 2.0,
-        "mint": "H9gji7B9ePpyjFtfn9T1NN1MkAXVpGWFiExmeBPgN5Sy",
-        "name": "H9gji7B9...N5Sy"
-      },
-      {
-        "amount": 2.0,
-        "mint": "FgX1WD9WzMU3yLwXaFSarPfkgzjLb2DZCqmkx9ExpuvJ",
-        "name": "FgX1WD9W...puvJ"
-      },
-      {
-        "amount": 2.0,
+        "full_name": "Lamas Finance",
         "mint": "LMFzmYL6y1FX8HsEmZ6yNKNzercBmtmpg2ZoLwuUboU",
-        "name": "LMFzmYL6...UboU"
-      },
-      {
-        "amount": 2.0,
-        "mint": "26nPfD9S6Eiqm6f27ob74uQ5u6BDmMWFKbRoMPZKgNjF",
-        "name": "26nPfD9S...gNjF"
-      },
-      {
-        "amount": 2.0,
-        "mint": "5FPQzUSkgvcbU78yaSMttv8Epr6AXre8njSKSkvsUnSp",
-        "name": "5FPQzUSk...UnSp"
-      },
-      {
-        "amount": 2.0,
-        "mint": "HEqcDLPDBMNeZwmxqqSAq8xGQB28E5BTgNTDm3oxPvGa",
-        "name": "HEqcDLPD...PvGa"
-      },
-      {
-        "amount": 1.0,
-        "mint": "GtN2MYXrJKtHYpJMyb7jzGB2K1em2nKTqpin8WkNUtSd",
-        "name": "GtN2MYXr...UtSd"
-      },
-      {
-        "amount": 1.0,
-        "mint": "5ERYMCw1zzptro8uw8V4U9KiLWSL9Ry9Q5Qxs6HSynHg",
-        "name": "5ERYMCw1...ynHg"
-      },
-      {
-        "amount": 1.0,
-        "mint": "cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2",
-        "name": "cxxShYRV...KVC2"
-      },
-      {
-        "amount": 1.0,
-        "mint": "4BWPLn5X1P4STzxDJ2r6qyntCbFPaLCfq82WFT4aASST",
-        "name": "4BWPLn5X...ASST"
-      },
-      {
-        "amount": 1.0,
-        "mint": "DDP21je6mKPiZnbhsHWxfXHYDEcqwAXb8KKbsLmJHYie",
-        "name": "DDP21je6...HYie"
-      },
-      {
-        "amount": 1.0,
-        "mint": "3K4qYX5gBLVRotFLe5iDpEEyaCLSo4JP8i7TMUsib4Tu",
-        "name": "3K4qYX5g...b4Tu"
-      },
-      {
-        "amount": 1.0,
-        "mint": "3gigDvmgCuz2gWRhr6iSxH1gCd1k4LpYoUsxEjLWJcLB",
-        "name": "3gigDvmg...JcLB"
-      },
-      {
-        "amount": 1.0,
-        "mint": "CB2tdxBWff6oU3y8Gis1rjRe2LfvxtFwTkcWrFHan3db",
-        "name": "CB2tdxBW...n3db"
-      },
-      {
-        "amount": 1.0,
-        "mint": "E3fpnT6Mnc7KRCDYVDeHEgdDbnPRKU9Eha5Lp3NJJQdE",
-        "name": "E3fpnT6M...JQdE"
-      },
-      {
-        "amount": 1.0,
-        "mint": "GkiLvPrtfzaCm4m8qS8XCzFmSk2uJrP5vcVnhFBk6P7j",
-        "name": "GkiLvPrt...6P7j"
-      },
-      {
-        "amount": 1.0,
-        "mint": "6X2yTPidh2AFCMdSeAYoKTRa8KveqgLegP9RWxyAEzQA",
-        "name": "6X2yTPid...EzQA"
-      },
-      {
-        "amount": 1.0,
-        "mint": "EXnyndNRaqniqWEgzFHFnN8g1dUPQj6emjkuKDK6ZLoA",
-        "name": "EXnyndNR...ZLoA"
-      },
-      {
-        "amount": 1.0,
-        "mint": "2hvKBnhXZVvZadKX5QKkiyU7pVXXe5ZNMZhAoeXJdHxj",
-        "name": "2hvKBnhX...dHxj"
-      },
-      {
-        "amount": 1.0,
-        "mint": "9NiVu3iq5uApkXvLEkCgbFAkgLCcMMXuxX4DxWkAR9Ce",
-        "name": "9NiVu3iq...R9Ce"
-      },
-      {
-        "amount": 1.0,
-        "mint": "8iRPA6P3ASGgWDnaHz33xZn9jeqLenLpjBgKXHCLiYSp",
-        "name": "8iRPA6P3...iYSp"
-      },
-      {
-        "amount": 1.0,
-        "mint": "8AtMdFpyKcTAq2CqtHpuKXYFaJP8BgGtcPBvWBsqAmMR",
-        "name": "8AtMdFpy...AmMR"
-      },
-      {
-        "amount": 1.0,
-        "mint": "Gs5EobU9GWNGp3kTugPV97ew45vdGj1HWmw9eaRk3nSb",
-        "name": "Gs5EobU9...3nSb"
-      },
-      {
-        "amount": 1.0,
-        "mint": "CHEGnSLuU4VPq9jpb4CsDSipfoekAxAeukuaov2hVz6z",
-        "name": "CHEGnSLu...Vz6z"
-      },
-      {
-        "amount": 1.0,
-        "mint": "F7noafdjaGYemtq2x5S7wwEEpnd7aajMJuQTCHeRLGqD",
-        "name": "F7noafdj...LGqD"
-      },
-      {
-        "amount": 1.0,
-        "mint": "3wPZEEM3yZgWY79JscjpKC8agoCYLA6PLQzpQ7TVgNsZ",
-        "name": "3wPZEEM3...gNsZ"
-      },
-      {
-        "amount": 1.0,
-        "mint": "C6s1XvygZkavD23G2WWiLm1DdH3e795oGJVtVUrRvtiy",
-        "name": "C6s1Xvyg...vtiy"
-      },
-      {
-        "amount": 1.0,
-        "mint": "9N6rDpCZ7Ct3nrXGLdALQPomSwBJnHiP3BWfrzoJxBne",
-        "name": "9N6rDpCZ...xBne"
-      },
-      {
-        "amount": 1.0,
-        "mint": "83874nZWWKSu7G1A6hfUfptyi2eNjd9fxhotCXVf2Kfc",
-        "name": "83874nZW...2Kfc"
-      },
-      {
-        "amount": 1.0,
-        "mint": "EGeMJgLaAHkBQ1UaLEBhzscfFsPqWgyaw9Lc4gMav186",
-        "name": "EGeMJgLa...v186"
-      },
-      {
-        "amount": 1.0,
-        "mint": "9EjLt9DALLRCbfYwMYNtNLtHYEKQBNKW4uP17ohAAP6t",
-        "name": "9EjLt9DA...AP6t"
-      },
-      {
-        "amount": 1.0,
-        "mint": "CWLAETW6Pty2VqPm3MTs47FhVNdQmEPfDm6yZBkQcZz2",
-        "name": "CWLAETW6...cZz2"
-      },
-      {
-        "amount": 1.0,
-        "mint": "DCMTawAvaxL5rt5tppSAP2K1RfmNC3AwKvFgmZXvCK3X",
-        "name": "DCMTawAv...CK3X"
-      },
-      {
-        "amount": 1.0,
-        "mint": "DoSN2M6XNS4NjiTriESxUFduYKsC89MvT18yAzgvqtRb",
-        "name": "DoSN2M6X...qtRb"
-      },
-      {
-        "amount": 1.0,
-        "mint": "Eb74ypWVhkBB4iAgf77c8s3J3mpik6QKurghqk1Hxxh2",
-        "name": "Eb74ypWV...xxh2"
-      },
-      {
-        "amount": 1.0,
-        "mint": "3tpx51J87f5qQpZ9LqhXwJnHaB7AV1ypZSd3QcHawoxb",
-        "name": "3tpx51J8...woxb"
-      },
-      {
-        "amount": 1.0,
-        "mint": "AR8urEBBXVbJ5sqcsW5V4a88eSCMXQsYJWueCBUzRY7k",
-        "name": "AR8urEBB...RY7k"
-      },
-      {
-        "amount": 1.0,
-        "mint": "DvBkxLBUVBgvRNGakXUs2iaiqa5HacZERV8FgZqLU6ap",
-        "name": "DvBkxLBU...U6ap"
-      },
-      {
-        "amount": 1.0,
-        "mint": "Caw4P6ypHsU2grSUHEUPAKa2g6g5qT1YRcQDJXLRMfDr",
-        "name": "Caw4P6yp...MfDr"
-      },
-      {
-        "amount": 1.0,
-        "mint": "BgiTVxW9uLuHHoafTd2qjYB5xjCc5Y1EnUuYNfmTwhvp",
-        "name": "BgiTVxW9...whvp"
-      },
-      {
-        "amount": 1.0,
-        "mint": "8B76p8xtyUxR6EKr7ZhozCMv86GugB3thpcFkeEuGRqH",
-        "name": "8B76p8xt...GRqH"
-      },
-      {
-        "amount": 1.0,
-        "mint": "6kTErzxDR7uMjqjbh3cRSyCmd2YxefxHFsmaPURHUcqT",
-        "name": "6kTErzxD...UcqT"
-      },
-      {
-        "amount": 1.0,
-        "mint": "PZkvackT12qPefdXNPrQr51cPfsMfSZBjm812kjn1H3",
-        "name": "PZkvackT...n1H3"
-      },
-      {
-        "amount": 1.0,
-        "mint": "FQhAReiZY4cEHQta4FfC83nyggSPmBC2PFX6fduSekjt",
-        "name": "FQhAReiZ...ekjt"
-      },
-      {
-        "amount": 1.0,
-        "mint": "8Lkb9Rx7MBeiyapnLAiYdHBobbRDJsKXsoVDD2VYoEwE",
-        "name": "8Lkb9Rx7...oEwE"
-      },
-      {
-        "amount": 1.0,
-        "mint": "53W6Fj721wuNRf9SjW7idTo7qSWJGNB3MJdtYvjYktbR",
-        "name": "53W6Fj72...ktbR"
-      },
-      {
-        "amount": 1.0,
-        "mint": "oVCmPq2mxHn6Z24U8yHGUtP5EbpXcNsGs2NFxSALZSA",
-        "name": "oVCmPq2m...LZSA"
-      },
-      {
-        "amount": 1.0,
-        "mint": "5i56NcmDYTFewCRYRZDkW6WHMXGWoYTY4SivdxFJP8Aj",
-        "name": "5i56NcmD...P8Aj"
-      },
-      {
-        "amount": 1.0,
-        "mint": "f5Apf9cwqTSFESwi8uHuyTAPkREfm2xDEyCVEAFKmRt",
-        "name": "f5Apf9cw...KmRt"
-      },
-      {
-        "amount": 1.0,
-        "mint": "5rmP4ruXhj8Qft7YtHyPofm7XTyaHoeYdBhPztZYzBAt",
-        "name": "5rmP4ruX...zBAt"
-      },
-      {
-        "amount": 1.0,
-        "mint": "5MDe5wQYFnLSWkZBGQ8krjgpu4MQwdswpfB72rVymLry",
-        "name": "5MDe5wQY...mLry"
-      },
-      {
-        "amount": 1.0,
-        "mint": "UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M",
-        "name": "UXPhBoR3...eL2M"
-      },
-      {
-        "amount": 1.0,
-        "mint": "64fYsLWZmo2GywaeshksUxiEm6oLjte6PcmoPMudxZxY",
-        "name": "64fYsLWZ...xZxY"
-      },
-      {
-        "amount": 1.0,
-        "mint": "5qY3fEuA4CoX4SVRd2q7bjL4GG5h62zi6KAXPgCU8RwQ",
-        "name": "5qY3fEuA...8RwQ"
-      },
-      {
-        "amount": 1.0,
-        "mint": "GkCYKY6iLuNjoRmNuBHDRMUtcUCSE5buiQpPeq9iuq5u",
-        "name": "GkCYKY6i...uq5u"
-      },
-      {
-        "amount": 1.0,
-        "mint": "9nx3iXybhbLi64EefxdMyZ2FiGLxcPW5smQ2upYezAQt",
-        "name": "9nx3iXyb...zAQt"
-      },
-      {
-        "amount": 1.0,
-        "mint": "HREk65KiSb8eQJkQx9WYT8dEwzBBfN5sDcg8nQPFcTsN",
-        "name": "HREk65Ki...cTsN"
-      },
-      {
-        "amount": 1.0,
-        "mint": "8EyoKd83jRf6mBDXnAFNyE9zsAmQcSLS8TM8LGwbLYTp",
-        "name": "8EyoKd83...LYTp"
-      },
-      {
-        "amount": 1.0,
-        "mint": "CW74EPa7gDrQtchmmTUs9EusCLsZNo6AxtZMxsJfnrN9",
-        "name": "CW74EPa7...nrN9"
-      },
-      {
-        "amount": 1.0,
-        "mint": "CCJ73enCHai27dS79uhqMYMGoehVQsP1YECyDq9xvyt9",
-        "name": "CCJ73enC...vyt9"
-      },
-      {
-        "amount": 1.0,
-        "mint": "FKKHKPeRjnqVcSdDbqZmRTsodpT9inro2A6jRz9m6D24",
-        "name": "FKKHKPeR...6D24"
-      },
-      {
-        "amount": 1.0,
-        "mint": "AJ65eRv9S8FMCgQnZoTtdREHCwt96qTnBCjCNVV2oauN",
-        "name": "AJ65eRv9...oauN"
-      },
-      {
-        "amount": 1.0,
-        "mint": "8imZJmscKxshCu1zJDNy8odiweE5hC2gH6ktcZrpDtzp",
-        "name": "8imZJmsc...Dtzp"
-      },
-      {
-        "amount": 1.0,
-        "mint": "8wh7C3nAaegLYvFp5CCM2qsxi1VU9k35e7UZTEaqixQq",
-        "name": "8wh7C3nA...ixQq"
-      },
-      {
-        "amount": 1.0,
-        "mint": "A3ip3oLFrCSWu7KdFgP8xbXUWVUgceaUaubg6XF8SxEy",
-        "name": "A3ip3oLF...SxEy"
-      },
-      {
-        "amount": 1.0,
-        "mint": "Cmvhycb6LQvvzaShGw4iDHRLzeSSryioAsU98DSSkMNa",
-        "name": "Cmvhycb6...kMNa"
-      },
-      {
-        "amount": 1.0,
-        "mint": "6kgCVTnwEXvPpRetci6P2kQ624CMFaVmZdgwuVaZxh8C",
-        "name": "6kgCVTnw...xh8C"
-      },
-      {
-        "amount": 1.0,
-        "mint": "FawTcAj55Y7gD2eV9Z3GrBsF6iCj6LFSsvL4pQF9Tgj2",
-        "name": "FawTcAj5...Tgj2"
-      },
-      {
-        "amount": 1.0,
-        "mint": "6oUpdzSwKfdRZLBKGryYxTacZfckbaLX18zz8RYXWyJf",
-        "name": "6oUpdzSw...WyJf"
-      },
-      {
-        "amount": 1.0,
-        "mint": "8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s",
-        "name": "8ymi88q5...Pa3s"
-      },
-      {
-        "amount": 1.0,
-        "mint": "2znw8JBTW1w2HBNiRwsTpbunjZVZ3uiGdHUt9M72i2oN",
-        "name": "2znw8JBT...i2oN"
-      },
-      {
-        "amount": 1.0,
-        "mint": "6Hs35Lp6sbfYCMT9QNATbTXU9eNjDWp1Vi7nG3NxWUF2",
-        "name": "6Hs35Lp6...WUF2"
-      },
-      {
-        "amount": 1.0,
-        "mint": "HNhv5zJNCVAi75ohQSBRBKdLDyD7wBaYkUYxpTEV7emS",
-        "name": "HNhv5zJN...7emS"
-      },
-      {
-        "amount": 0.75,
-        "mint": "GYCVdmDthkf3jSz5ns6fkzCmHub7FSZxjVCfbfGqkH7P",
-        "name": "GYCVdmDt...kH7P"
-      },
-      {
-        "amount": 0.69,
-        "mint": "oMscGPj1wqxiu664H5nzJQMay8yQgTVRqYNTLtYpump",
-        "name": "oMscGPj1...pump"
+        "name": "LMFzmYL6...UboU",
+        "symbol": "LMF",
+        "usd_price": 0.002144,
+        "usd_value": 0.004288
+      },
+      {
+        "amount": 69000.0,
+        "full_name": "Heal",
+        "mint": "GaKwGHbdQut6nNtyKfU9YfD7emAASg5RJ4kMKmrA4Utb",
+        "name": "GaKwGHbd...4Utb",
+        "symbol": "heal",
+        "usd_price": 3.989e-08,
+        "usd_value": 0.0027524100000000003
+      },
+      {
+        "amount": 7.0,
+        "full_name": "WOMAN YELLING AT CAT",
+        "mint": "BEgBsVSKJSxreiCE1XmWWq8arnwit7xDqQXSWYgay9xP",
+        "name": "BEgBsVSK...y9xP",
+        "symbol": "WYAC",
+        "usd_price": 0.0002912,
+        "usd_value": 0.0020383999999999997
       },
       {
         "amount": 0.42,
+        "full_name": "Smog",
         "mint": "FS66v5XYtJAFo14LiPz5HT93EUMAHmYipCfQhLpU4ss8",
-        "name": "FS66v5XY...4ss8"
+        "name": "FS66v5XY...4ss8",
+        "symbol": "SMOG",
+        "usd_price": 0.004222,
+        "usd_value": 0.00177324
       },
       {
-        "amount": 0.24075,
-        "mint": "BDrL8huis6S5tpmozaAaT5zhE5A7ZBAB2jMMvpKEeF8A",
-        "name": "BDrL8hui...eF8A"
-      },
-      {
-        "amount": 0.233429256,
-        "mint": "nope9HWCJcXVFkG49CDk7oYFtgGsUzsRvHdcJeL2aCL",
-        "name": "nope9HWC...2aCL"
-      },
-      {
-        "amount": 0.19,
-        "mint": "ABE7D8RU1eHfCJWzHYZZeymeE8k9nPPXfqge2NQYyKoL",
-        "name": "ABE7D8RU...yKoL"
-      },
-      {
-        "amount": 0.1805,
-        "mint": "J9ScmJd1bmwzen5RGLHDmNzBkfPxF2W8qrBViveNxoMh",
-        "name": "J9ScmJd1...xoMh"
-      },
-      {
-        "amount": 0.106934,
-        "mint": "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
-        "name": "PRSMNsEP...1o5x"
-      },
-      {
-        "amount": 0.06853685,
-        "mint": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
-        "name": "DYDWu4hE...iKun"
-      },
-      {
-        "amount": 0.002020999,
-        "mint": "Ce3PSQfkxT5ua4r2JqCoWYrMwKWC5hEzwsrT9Hb7mAz9",
-        "name": "Ce3PSQfk...mAz9"
+        "amount": 3800.0,
+        "full_name": "FABRIC",
+        "mint": "EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96",
+        "name": "EdAhkbj5...YE96",
+        "symbol": "FAB",
+        "usd_price": 4.067e-07,
+        "usd_value": 0.00154546
       },
       {
         "amount": 0.001,
+        "full_name": "USD Coin",
         "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "name": "EPjFWdd5...Dt1v"
+        "name": "EPjFWdd5...Dt1v",
+        "symbol": "USDC",
+        "usd_price": 1.000045,
+        "usd_value": 0.0010000450000000002
       },
       {
-        "amount": 0.000718,
-        "mint": "6cKnRJskSTonD6kZiWt2Fy3NB6ZND6CbgA3vHiZ1kHEU",
-        "name": "6cKnRJsk...kHEU"
+        "amount": 2.0,
+        "full_name": "NINJA",
+        "mint": "FgX1WD9WzMU3yLwXaFSarPfkgzjLb2DZCqmkx9ExpuvJ",
+        "name": "FgX1WD9W...puvJ",
+        "symbol": "NINJA",
+        "usd_price": 0.0004437,
+        "usd_value": 0.0008874
+      },
+      {
+        "amount": 60.0,
+        "full_name": "ARB Protocol",
+        "mint": "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
+        "name": "9tzZzEHs...TEoh",
+        "symbol": "ARB",
+        "usd_price": 6.389e-06,
+        "usd_value": 0.00038334
+      },
+      {
+        "amount": 1.0,
+        "full_name": "UXP Governance Token",
+        "mint": "UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M",
+        "name": "UXPhBoR3...eL2M",
+        "symbol": "UXP",
+        "usd_price": 0.0001806,
+        "usd_value": 0.0001806
+      },
+      {
+        "amount": 0.106934,
+        "full_name": "PRISM",
+        "mint": "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
+        "name": "PRSMNsEP...1o5x",
+        "symbol": "PRISM",
+        "usd_price": 0.0003464,
+        "usd_value": 3.70419376e-05
+      },
+      {
+        "amount": 1.0,
+        "full_name": "SolChicks",
+        "mint": "cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2",
+        "name": "cxxShYRV...KVC2",
+        "symbol": "CHICKS",
+        "usd_price": 1.504e-05,
+        "usd_value": 1.504e-05
+      },
+      {
+        "amount": 1.0,
+        "full_name": "SolDoge",
+        "mint": "8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s",
+        "name": "8ymi88q5...Pa3s",
+        "symbol": "SDOGE",
+        "usd_price": 2.569e-06,
+        "usd_value": 2.569e-06
       },
       {
         "amount": 0.000592,
+        "full_name": "Dexlab Classic",
         "mint": "GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
-        "name": "GsNzxJfF...iE9Z"
-      },
-      {
-        "amount": 0.000124,
-        "mint": "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
-        "name": "2jXy799Y...1DaP"
-      },
-      {
-        "amount": 1.9899e-05,
-        "mint": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
-        "name": "7xKXtg2C...gAsU"
-      },
-      {
-        "amount": 1e-05,
-        "mint": "cMETAGX549J6Z5wLWDVHKxEmBibh8YkWvFftCRyaw2a",
-        "name": "cMETAGX5...aw2a"
-      },
-      {
-        "amount": 8.702e-06,
-        "mint": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
-        "name": "AJ1W9A9N...apgX"
-      },
-      {
-        "amount": 3.851e-06,
-        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-        "name": "JEFFSQ3s...XBm1"
-      },
-      {
-        "amount": 2e-06,
-        "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "name": "CASHVDm2...5woT"
-      },
-      {
-        "amount": 1.83e-06,
-        "mint": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
-        "name": "SL819j8K...ySYj"
-      },
-      {
-        "amount": 1.29e-06,
-        "mint": "ErGB9xa24Szxbk1M28u2Tx8rKPqzL6BroNkkzk5rG4zj",
-        "name": "ErGB9xa2...G4zj"
+        "name": "GsNzxJfF...iE9Z",
+        "symbol": "DXLC",
+        "usd_price": 0.0002184,
+        "usd_value": 1.2929279999999998e-07
       },
       {
         "amount": 1e-06,
+        "full_name": "Drift",
         "mint": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
-        "name": "DriFtupJ...jwg7"
+        "name": "DriFtupJ...jwg7",
+        "symbol": "DRIFT",
+        "usd_price": 0.03346,
+        "usd_value": 3.3459999999999997e-08
       },
       {
-        "amount": 8.74e-07,
-        "mint": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
-        "name": "AEUT5uFm...AhTV"
+        "amount": 1.9899e-05,
+        "full_name": "Samoyed Coin",
+        "mint": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+        "name": "7xKXtg2C...gAsU",
+        "symbol": "SAMO",
+        "usd_price": 0.0004427,
+        "usd_value": 8.8092873e-09
       },
       {
-        "amount": 6.47e-07,
-        "mint": "GFX1ZjR2P15tmrSwow6FjyDYcEkoFb4p4gJCpLBjaxHD",
-        "name": "GFX1ZjR2...axHD"
-      },
-      {
-        "amount": 5.7e-07,
-        "mint": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
-        "name": "SBTCB6pW...gSRv"
-      },
-      {
-        "amount": 4.11e-07,
-        "mint": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
-        "name": "CXLBjMMc...4MRm"
-      },
-      {
-        "amount": 1.006e-07,
-        "mint": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
-        "name": "BtX7AfzE...hPvi"
-      },
-      {
-        "amount": 9.1e-08,
-        "mint": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
-        "name": "2kycGCD8...7uak"
+        "amount": 1.29e-06,
+        "full_name": "FRAKT Token",
+        "mint": "ErGB9xa24Szxbk1M28u2Tx8rKPqzL6BroNkkzk5rG4zj",
+        "name": "ErGB9xa2...G4zj",
+        "symbol": "FRKT",
+        "usd_price": 0.0004363,
+        "usd_value": 5.62827e-10
       },
       {
         "amount": 3e-08,
+        "full_name": "Star Atlas",
         "mint": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
-        "name": "ATLASXmb...UsXx"
+        "name": "ATLASXmb...UsXx",
+        "symbol": "ATLAS",
+        "usd_price": 0.0001653,
+        "usd_value": 4.958999999999999e-12
       },
       {
         "amount": 5e-09,
+        "full_name": "Samoyed Coin",
         "mint": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
-        "name": "7xKXtg2C...gAsU"
+        "name": "7xKXtg2C...gAsU",
+        "symbol": "SAMO",
+        "usd_price": 0.0004427,
+        "usd_value": 2.2135000000000002e-12
+      },
+      {
+        "amount": 14482026819977.0,
+        "full_name": "",
+        "mint": "8BJxFGU12xt1KPpPU9LoBxJiYLGDHY5MWYmVB3UohT5b",
+        "name": "8BJxFGU1...hT5b",
+        "symbol": "8BJxFGU1...hT5b",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 11830236622039.0,
+        "full_name": "",
+        "mint": "EHw3F8uPt9yHhrMVDRTLuMzpYnAsab4CqYzt2jzfwEnr",
+        "name": "EHw3F8uP...wEnr",
+        "symbol": "EHw3F8uP...wEnr",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 89033565.0,
+        "full_name": "",
+        "mint": "BfRaCawrKBVXp7znfiiGnuXPzxTPUSrXC9So6YYi5bUD",
+        "name": "BfRaCawr...5bUD",
+        "symbol": "BfRaCawr...5bUD",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 88037485.0,
+        "full_name": "",
+        "mint": "NcW9HtX3a4A875Af2CYo1groV5PgNoq6JGVvy4q52C2",
+        "name": "NcW9HtX3...52C2",
+        "symbol": "NcW9HtX3...52C2",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 76406484.0,
+        "full_name": "",
+        "mint": "CGJEJvZqyDeMpcbu32V9pxFauhr2tRGeN386QDAtayC7",
+        "name": "CGJEJvZq...ayC7",
+        "symbol": "CGJEJvZq...ayC7",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 6339531.0,
+        "full_name": "",
+        "mint": "FRoQotMnoD92sWUBGe4GVfxNAgjwecJkVp9fjuJNgvtM",
+        "name": "FRoQotMn...gvtM",
+        "symbol": "FRoQotMn...gvtM",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2000000.0,
+        "full_name": "",
+        "mint": "7ViSurf5Ve2a8qDWFYsfU8GFmRttQvS5paJ8L94QZgo7",
+        "name": "7ViSurf5...Zgo7",
+        "symbol": "7ViSurf5...Zgo7",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1509999.0,
+        "full_name": "",
+        "mint": "72hgmvS5zFxaFJfMizq6Gp4gjBqXjTPyX9GDP38krorQ",
+        "name": "72hgmvS5...rorQ",
+        "symbol": "72hgmvS5...rorQ",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1331018.3,
+        "full_name": "",
+        "mint": "HEmgGwgn6naqNatkU9ST2wHa4X9HRMmxE7qE8vWuV7L2",
+        "name": "HEmgGwgn...V7L2",
+        "symbol": "HEmgGwgn...V7L2",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1042955.0,
+        "full_name": "",
+        "mint": "7Lo2LfJsDUhaUn8o1PYgrkAw4HjAQWEgJFqPdLF54wn7",
+        "name": "7Lo2LfJs...4wn7",
+        "symbol": "7Lo2LfJs...4wn7",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1035351.0,
+        "full_name": "",
+        "mint": "9LhS9DS7i8iVRfzejBHuaKKnTpauBamDAaD4BpQyPMKB",
+        "name": "9LhS9DS7...PMKB",
+        "symbol": "9LhS9DS7...PMKB",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1033597.0,
+        "full_name": "",
+        "mint": "7ABpNWSaCtJuKf2VHyXADi6vQNnm54ASe8FGEkgRuFxY",
+        "name": "7ABpNWSa...uFxY",
+        "symbol": "7ABpNWSa...uFxY",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1000000.0,
+        "full_name": "",
+        "mint": "HPNnvqceRGGBqodLAtt1dy3CLyp4MY1zuRHaosfUZpj2",
+        "name": "HPNnvqce...Zpj2",
+        "symbol": "HPNnvqce...Zpj2",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1000000.0,
+        "full_name": "",
+        "mint": "B3DWEUG2zhKTtCwuixfcV6yd5yiLHVBCL4KmjBpiBEfg",
+        "name": "B3DWEUG2...BEfg",
+        "symbol": "B3DWEUG2...BEfg",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 625000.0,
+        "full_name": "",
+        "mint": "5YtGSyQ7YxFgDc9oj4SpZGTjoS5p5Fubkg8sMauQqXoS",
+        "name": "5YtGSyQ7...qXoS",
+        "symbol": "5YtGSyQ7...qXoS",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 600000.0,
+        "full_name": "",
+        "mint": "Dhg9XnzJWzSQqH2aAnhPTEJHGQAkALDfD98MA499A7pa",
+        "name": "Dhg9XnzJ...A7pa",
+        "symbol": "Dhg9XnzJ...A7pa",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 500001.0,
+        "full_name": "",
+        "mint": "9MhNoxy1PbmEazjPo9kiZPCcG7BiFbhi3bWZXZgacfpp",
+        "name": "9MhNoxy1...cfpp",
+        "symbol": "9MhNoxy1...cfpp",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 444816.0,
+        "full_name": "",
+        "mint": "7SZUnH7H9KptyJkUhJ5L4Kee5fFAbqVgCHvt7B6wg4Xc",
+        "name": "7SZUnH7H...g4Xc",
+        "symbol": "7SZUnH7H...g4Xc",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 420000.0,
+        "full_name": "",
+        "mint": "Fse2oFDfbwT89CqtuoFaHCBnGTMFLartDYDjPLZyc7e",
+        "name": "Fse2oFDf...yc7e",
+        "symbol": "Fse2oFDf...yc7e",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 269000.0,
+        "full_name": "",
+        "mint": "CBPfSGeSf76o3r4628k7BcZ5YBNxHh7hkCzu4AmVgk2Q",
+        "name": "CBPfSGeS...gk2Q",
+        "symbol": "CBPfSGeS...gk2Q",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 200000.0,
+        "full_name": "",
+        "mint": "56tNQ29XBrbovm5K5SThuQatjCy92w2wKUaUeQ8WCD9g",
+        "name": "56tNQ29X...CD9g",
+        "symbol": "56tNQ29X...CD9g",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 157878.0,
+        "full_name": "",
+        "mint": "2bXBmaYJwJfj5Cu8TDqLLrW1b9L7dK6sLgKoBBYRBzTH",
+        "name": "2bXBmaYJ...BzTH",
+        "symbol": "2bXBmaYJ...BzTH",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 100000.0,
+        "full_name": "",
+        "mint": "43nugMCbD2J7BDiDDTxUD15jcLnexdPtftPdANYy9tc6",
+        "name": "43nugMCb...9tc6",
+        "symbol": "43nugMCb...9tc6",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 76000.0,
+        "full_name": "",
+        "mint": "DrcPRJPBiakQcWqon3gZms7sviAqdQS5zS5wvaG5v6wu",
+        "name": "DrcPRJPB...v6wu",
+        "symbol": "DrcPRJPB...v6wu",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 70955.0,
+        "full_name": "",
+        "mint": "DioRxJZYzySc7c38tcM1sUvYS89TWLpcADSuxXhceSXa",
+        "name": "DioRxJZY...eSXa",
+        "symbol": "DioRxJZY...eSXa",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 60400.0,
+        "full_name": "",
+        "mint": "YtfMZ4jg2ubdz4GasY86iuGjHdo5rCPJnFqgSf8gxAz",
+        "name": "YtfMZ4jg...gxAz",
+        "symbol": "YtfMZ4jg...gxAz",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 50000.0,
+        "full_name": "",
+        "mint": "FZTfdpD9DzgqMDjgNrmShDsyd5MYkwQ4k1jLq1ecrmnd",
+        "name": "FZTfdpD9...rmnd",
+        "symbol": "FZTfdpD9...rmnd",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 45000.0,
+        "full_name": "",
+        "mint": "Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8",
+        "name": "Amt5wUJR...EuY8",
+        "symbol": "Amt5wUJR...EuY8",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 33333.0,
+        "full_name": "",
+        "mint": "8NFa3QXg3kKqvdmJNjUhzqwvAnUYA9F5R4ymyjJfHcVB",
+        "name": "8NFa3QXg...HcVB",
+        "symbol": "8NFa3QXg...HcVB",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 30590.0,
+        "full_name": "",
+        "mint": "FHhVb6ipzDUKKNjr5uNdEYvtrAjCM4AST1sU3CzBdEVP",
+        "name": "FHhVb6ip...dEVP",
+        "symbol": "FHhVb6ip...dEVP",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 20000.0,
+        "full_name": "",
+        "mint": "DiJWJ6hgV7Vm5JP6SU7xvo7nULR14UvrGoWmSu34fEvZ",
+        "name": "DiJWJ6hg...fEvZ",
+        "symbol": "DiJWJ6hg...fEvZ",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 20000.0,
+        "full_name": "",
+        "mint": "Fg3NLKzwfnhtiEjnbn86wcZiGckuL5bzf61JGSqFi4ot",
+        "name": "Fg3NLKzw...i4ot",
+        "symbol": "Fg3NLKzw...i4ot",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 17707.581558,
+        "full_name": "",
+        "mint": "SLT3iSYKeBuCyxvnfij4RUhMfKxZCY3s12Z5pfkTXhV",
+        "name": "SLT3iSYK...TXhV",
+        "symbol": "SLT3iSYK...TXhV",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 16666.0,
+        "full_name": "",
+        "mint": "GM4CTEsNsU5Kg22JNKkANTannrBU9Ah6SNa3BcyBA6Kj",
+        "name": "GM4CTEsN...A6Kj",
+        "symbol": "GM4CTEsN...A6Kj",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 11528.0,
+        "full_name": "",
+        "mint": "SAMUmmSvrE8yqtcG94oyP1Zu2P9t8PSRSV3vewsGtPM",
+        "name": "SAMUmmSv...GtPM",
+        "symbol": "SAMUmmSv...GtPM",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 10000.0,
+        "full_name": "",
+        "mint": "8AuH7UW39AUFA1rtSisaihG9RKcwV2W4xtcKCzLWpump",
+        "name": "8AuH7UW3...pump",
+        "symbol": "8AuH7UW3...pump",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 9999.0,
+        "full_name": "",
+        "mint": "2TyHMAt6cDzeBYeQHbqYznqjka77uy2DxC6gM7qNpump",
+        "name": "2TyHMAt6...pump",
+        "symbol": "2TyHMAt6...pump",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 6064.906703,
+        "full_name": "",
+        "mint": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
+        "name": "8wv2KAyk...mGvE",
+        "symbol": "8wv2KAyk...mGvE",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 5000.0,
+        "full_name": "",
+        "mint": "4dydh8EGNEdTz6grqnGBxpduRg55eLnwNZXoNZJetadu",
+        "name": "4dydh8EG...tadu",
+        "symbol": "4dydh8EG...tadu",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2766.909,
+        "full_name": "",
+        "mint": "A9ik2NrpKRRG2snyTjofZQcTuav9yH3mNVHLsLiDQmYt",
+        "name": "A9ik2Nrp...QmYt",
+        "symbol": "A9ik2Nrp...QmYt",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2430.0,
+        "full_name": "",
+        "mint": "9v3XifoZUSrN9gg9BC8Daywp6Wo7QPvv1R8sLzQgNNZJ",
+        "name": "9v3XifoZ...NNZJ",
+        "symbol": "9v3XifoZ...NNZJ",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2331.0,
+        "full_name": "",
+        "mint": "3m7A2A8HHdqmiDrjAfaddj7Hxd88FrBHA1KSoqjoELtu",
+        "name": "3m7A2A8H...ELtu",
+        "symbol": "3m7A2A8H...ELtu",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2010.0,
+        "full_name": "",
+        "mint": "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
+        "name": "5jFnsfx3...Fzko",
+        "symbol": "5jFnsfx3...Fzko",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2000.0,
+        "full_name": "",
+        "mint": "5cKFNtooCQSkLhdFukk8R3PTdT4Rvm9cJr8Et49TxchR",
+        "name": "5cKFNtoo...xchR",
+        "symbol": "5cKFNtoo...xchR",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1337.0,
+        "full_name": "",
+        "mint": "9RxQeMi2MRjiFU2ZfPWirP8M242KMhoyW9SB1UvfVXhu",
+        "name": "9RxQeMi2...VXhu",
+        "symbol": "9RxQeMi2...VXhu",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1000.0,
+        "full_name": "",
+        "mint": "HfMVgG3fQr45JtrQD3jpVki6E5H5BSdjN8kCAvDEDKMQ",
+        "name": "HfMVgG3f...DKMQ",
+        "symbol": "HfMVgG3f...DKMQ",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 778.0,
+        "full_name": "",
+        "mint": "GdK4LNeHCMnBgWJewgeJ11usnd59UHQ7avUmVmFomUz3",
+        "name": "GdK4LNeH...mUz3",
+        "symbol": "GdK4LNeH...mUz3",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 700.0,
+        "full_name": "",
+        "mint": "GmfGJqZG4y5z4gHHYZafDPUQURVuecYkxYTZQHyhQ8J",
+        "name": "GmfGJqZG...hQ8J",
+        "symbol": "GmfGJqZG...hQ8J",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 700.0,
+        "full_name": "",
+        "mint": "4CPQAbVymssxbmDDhLVUJXy26aoRrco3scnp7ib5nXke",
+        "name": "4CPQAbVy...nXke",
+        "symbol": "4CPQAbVy...nXke",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 600.0,
+        "full_name": "",
+        "mint": "6uZ7MRGGf3FJhzk9TUk3QRMR2fz83WY9BEVBukRvMRVX",
+        "name": "6uZ7MRGG...MRVX",
+        "symbol": "6uZ7MRGG...MRVX",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 567.0,
+        "full_name": "",
+        "mint": "HkNK7BL5pSUUzc6ns1mHW5JnzbSG4S9u2QdR3cUuyzSa",
+        "name": "HkNK7BL5...yzSa",
+        "symbol": "HkNK7BL5...yzSa",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 500.0,
+        "full_name": "",
+        "mint": "7Y5VS96FJJXRn98wGB5UhaWhDttkhdPoAb4QeGzy453w",
+        "name": "7Y5VS96F...453w",
+        "symbol": "7Y5VS96F...453w",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 500.0,
+        "full_name": "",
+        "mint": "GXnw9YSt6DANCt84Ti6ZpbaXvrvuEJFCYqrDjygnq4R8",
+        "name": "GXnw9YSt...q4R8",
+        "symbol": "GXnw9YSt...q4R8",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 300.0,
+        "full_name": "",
+        "mint": "5HbkoVbaMnJYEuiTqeC7cBMSK2zG2MFfoxc9e6VkWPQS",
+        "name": "5HbkoVba...WPQS",
+        "symbol": "5HbkoVba...WPQS",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 252.48,
+        "full_name": "",
+        "mint": "DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc",
+        "name": "DJafV9qe...k9kc",
+        "symbol": "DJafV9qe...k9kc",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 200.0,
+        "full_name": "",
+        "mint": "H6JocWxg5g1Lcs4oPnBecmjQ4Y1bkZhGJHtjMunmjyrp",
+        "name": "H6JocWxg...jyrp",
+        "symbol": "H6JocWxg...jyrp",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 200.0,
+        "full_name": "",
+        "mint": "GZnmKhbMBhyotxXK5RTBritcT58MgyMwSwGZC77fdo1n",
+        "name": "GZnmKhbM...do1n",
+        "symbol": "GZnmKhbM...do1n",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 200.0,
+        "full_name": "",
+        "mint": "DfP3GKcq86B6VzGQrG3iupRWwqWcWnLndvFC2FTYKxiT",
+        "name": "DfP3GKcq...KxiT",
+        "symbol": "DfP3GKcq...KxiT",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 132.0,
+        "full_name": "",
+        "mint": "BUCRaErcqwD4iUJDYh1BAJ9nzzCchqb9spxBhFno6deA",
+        "name": "BUCRaErc...6deA",
+        "symbol": "BUCRaErc...6deA",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 125.0,
+        "full_name": "",
+        "mint": "4UuGQgkD3rSeoXatXRWwRfRd21G87d5LiCfkVzNNv1Tt",
+        "name": "4UuGQgkD...v1Tt",
+        "symbol": "4UuGQgkD...v1Tt",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 100.0,
+        "full_name": "",
+        "mint": "EiDBV9z8grxc7TmJHBvJ2rSAL7PrqjrTjLgS7Feqztqn",
+        "name": "EiDBV9z8...ztqn",
+        "symbol": "EiDBV9z8...ztqn",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 100.0,
+        "full_name": "",
+        "mint": "FvB3QSa6rZHAbmT63zVg94XwD3P85b9HpudA3xtFqEhF",
+        "name": "FvB3QSa6...qEhF",
+        "symbol": "FvB3QSa6...qEhF",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 100.0,
+        "full_name": "",
+        "mint": "21jZ1ESEFYh9SBwjT5gqE3jHv3JnaGhgvypLTR96QXW9",
+        "name": "21jZ1ESE...QXW9",
+        "symbol": "21jZ1ESE...QXW9",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 100.0,
+        "full_name": "",
+        "mint": "CSE6pyuMZn1JtdZbtDg6wo7tXJJPKutWezfkon97c3NS",
+        "name": "CSE6pyuM...c3NS",
+        "symbol": "CSE6pyuM...c3NS",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 100.0,
+        "full_name": "",
+        "mint": "5AatLCbXP8cektqUmTcxqYrjfy9CU3t7B3U1RxNNmfdE",
+        "name": "5AatLCbX...mfdE",
+        "symbol": "5AatLCbX...mfdE",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 88.0,
+        "full_name": "",
+        "mint": "Ae1aeYK9WrB2kP29jJU4aUUK7Y1vzsGNZFKoe4BG2h6P",
+        "name": "Ae1aeYK9...2h6P",
+        "symbol": "Ae1aeYK9...2h6P",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 77.6,
+        "full_name": "",
+        "mint": "3jzdrXXKxwkBk82u2eCWASZLCKoZs1LQTg87HBEAmBJw",
+        "name": "3jzdrXXK...mBJw",
+        "symbol": "3jzdrXXK...mBJw",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 50.0,
+        "full_name": "",
+        "mint": "6s34xkPDqmqQndhbhAWEyx4SnyDSrKgiewouNYeYRvjf",
+        "name": "6s34xkPD...Rvjf",
+        "symbol": "6s34xkPD...Rvjf",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 50.0,
+        "full_name": "",
+        "mint": "Hf7oUc1PgenzBXN81VhBCDG13mq9MEzje5bQ38zLex3V",
+        "name": "Hf7oUc1P...ex3V",
+        "symbol": "Hf7oUc1P...ex3V",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 31.0,
+        "full_name": "",
+        "mint": "9qmnLxS4U1MdNszBzY12YQaJ6gnqXgQAAdAAF6yYFV4m",
+        "name": "9qmnLxS4...FV4m",
+        "symbol": "9qmnLxS4...FV4m",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 25.0,
+        "full_name": "",
+        "mint": "68jbAkL4V7e2zXKHxxSrMYiHbGakbmSCbKjGN7MApHJV",
+        "name": "68jbAkL4...pHJV",
+        "symbol": "68jbAkL4...pHJV",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 24.0,
+        "full_name": "",
+        "mint": "GxX2h6KxsCp6QSte5yJdfaNK448w5GLPgmFDJaqT9peR",
+        "name": "GxX2h6Kx...9peR",
+        "symbol": "GxX2h6Kx...9peR",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 20.0,
+        "full_name": "",
+        "mint": "AVKnbqNQgXDY8kbnno9eSGfwpVz5idimBnDKiz1vbWAh",
+        "name": "AVKnbqNQ...bWAh",
+        "symbol": "AVKnbqNQ...bWAh",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 20.0,
+        "full_name": "",
+        "mint": "HEhMLvpSdPviukafKwVN8BnBUTamirptsQ6Wxo5Cyv8s",
+        "name": "HEhMLvpS...yv8s",
+        "symbol": "HEhMLvpS...yv8s",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 20.0,
+        "full_name": "",
+        "mint": "Qikhhhg9Ta3Jg7WoDFbSYuCAE14hx9hPvdz1zVp3zUw",
+        "name": "Qikhhhg9...3zUw",
+        "symbol": "Qikhhhg9...3zUw",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 10.0,
+        "full_name": "",
+        "mint": "ALKiRVrfLgzeAV2mCT7cJHKg3ZoPvsCRSV7VCRWnE8zQ",
+        "name": "ALKiRVrf...E8zQ",
+        "symbol": "ALKiRVrf...E8zQ",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 10.0,
+        "full_name": "",
+        "mint": "6cH34XtzNgCDwb7NFbiji1a1N8F3FgmXTrFxvzBZNVui",
+        "name": "6cH34Xtz...NVui",
+        "symbol": "6cH34Xtz...NVui",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 10.0,
+        "full_name": "",
+        "mint": "ArdsPHY5LsCjvxSxZz8f3vTkv5qoYihmCCPMYvr6aQza",
+        "name": "ArdsPHY5...aQza",
+        "symbol": "ArdsPHY5...aQza",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 10.0,
+        "full_name": "",
+        "mint": "5tWQEHefEPEE6k27EAFygHhmMcq41NcXDuxfGSmHT16L",
+        "name": "5tWQEHef...T16L",
+        "symbol": "5tWQEHef...T16L",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 10.0,
+        "full_name": "",
+        "mint": "F4Y478Q5enMZVYx44MSYKRuSr8B64MRHbU9d5XqHdKM5",
+        "name": "F4Y478Q5...dKM5",
+        "symbol": "F4Y478Q5...dKM5",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 10.0,
+        "full_name": "",
+        "mint": "2pNLzaGGYdL3u5qy5CybnP196CzuRf6crJ1VNpd4tmPu",
+        "name": "2pNLzaGG...tmPu",
+        "symbol": "2pNLzaGG...tmPu",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 9.0,
+        "full_name": "",
+        "mint": "FPYXBYLnzWcA72WxDDaaq6LHDsu1V2g3pjQ4APz1diky",
+        "name": "FPYXBYLn...diky",
+        "symbol": "FPYXBYLn...diky",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 8.0,
+        "full_name": "",
+        "mint": "5TPYH5sMvFMitzsjzM9xrxq5igpVuGugVu8CLzCrFdFW",
+        "name": "5TPYH5sM...FdFW",
+        "symbol": "5TPYH5sM...FdFW",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 7.0,
+        "full_name": "",
+        "mint": "A2CHAq8NDrrhzLKoUmHXAWjszVQe8iXoHSXjCYyaEAZH",
+        "name": "A2CHAq8N...EAZH",
+        "symbol": "A2CHAq8N...EAZH",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 7.0,
+        "full_name": "",
+        "mint": "iobVLW6ePUrcX7Y4DzW69QDpQt2CkJ6c3SZmaLozibj",
+        "name": "iobVLW6e...zibj",
+        "symbol": "iobVLW6e...zibj",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 6.0,
+        "full_name": "",
+        "mint": "FriCEbw1V99GwrJRXPnSQ6su2TabHabNxiZ3VNsVFPPN",
+        "name": "FriCEbw1...FPPN",
+        "symbol": "FriCEbw1...FPPN",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 6.0,
+        "full_name": "",
+        "mint": "EwHqbMUMX33JjWAhxSg9vsX3miWqncsgpnAbqn9nhJwZ",
+        "name": "EwHqbMUM...hJwZ",
+        "symbol": "EwHqbMUM...hJwZ",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 5.0,
+        "full_name": "",
+        "mint": "9cUzV49LN8AJXSwrhgKzZvSSaHyk6pdwLYBJXPjK2JFA",
+        "name": "9cUzV49L...2JFA",
+        "symbol": "9cUzV49L...2JFA",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 5.0,
+        "full_name": "",
+        "mint": "DL23jAY3qCG7G9W1fSQETzMjLmwUL9hKmiwEedCDK9ww",
+        "name": "DL23jAY3...K9ww",
+        "symbol": "DL23jAY3...K9ww",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 5.0,
+        "full_name": "",
+        "mint": "DVcMVQj49HHRaRrjZSkyK4qBNgeo8QUWBUTddoC97xvB",
+        "name": "DVcMVQj4...7xvB",
+        "symbol": "DVcMVQj4...7xvB",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 3.0,
+        "full_name": "",
+        "mint": "EoqJXTxCc67i18B7nwWs59RBkTe8rStTreRhCCq1eVTH",
+        "name": "EoqJXTxC...eVTH",
+        "symbol": "EoqJXTxC...eVTH",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 3.0,
+        "full_name": "",
+        "mint": "8EHQAKD5BDQGaxDWK8sTeHP9Fs1AVC2ZVfoNMV6b8m46",
+        "name": "8EHQAKD5...8m46",
+        "symbol": "8EHQAKD5...8m46",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 3.0,
+        "full_name": "",
+        "mint": "8vmfpC295wnxH7mnPw3GpfvD9mCCdJBj81mPfe9PL9Wi",
+        "name": "8vmfpC29...L9Wi",
+        "symbol": "8vmfpC29...L9Wi",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2.0,
+        "full_name": "",
+        "mint": "678oGX9JCP86hiiFeetfhNM8sLEyHfEQSZzytqdFyQQj",
+        "name": "678oGX9J...yQQj",
+        "symbol": "678oGX9J...yQQj",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2.0,
+        "full_name": "",
+        "mint": "2hWrFTaGYXNLEVnTdvYPF5roxp4NSygoC8BYWYHYLuXd",
+        "name": "2hWrFTaG...LuXd",
+        "symbol": "2hWrFTaG...LuXd",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2.0,
+        "full_name": "",
+        "mint": "HdjMPYYKaAgHr6Son56hGaSP3CEkDvD67bVzGuVgfz8S",
+        "name": "HdjMPYYK...fz8S",
+        "symbol": "HdjMPYYK...fz8S",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2.0,
+        "full_name": "",
+        "mint": "H9gji7B9ePpyjFtfn9T1NN1MkAXVpGWFiExmeBPgN5Sy",
+        "name": "H9gji7B9...N5Sy",
+        "symbol": "H9gji7B9...N5Sy",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2.0,
+        "full_name": "",
+        "mint": "26nPfD9S6Eiqm6f27ob74uQ5u6BDmMWFKbRoMPZKgNjF",
+        "name": "26nPfD9S...gNjF",
+        "symbol": "26nPfD9S...gNjF",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2.0,
+        "full_name": "",
+        "mint": "5FPQzUSkgvcbU78yaSMttv8Epr6AXre8njSKSkvsUnSp",
+        "name": "5FPQzUSk...UnSp",
+        "symbol": "5FPQzUSk...UnSp",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2.0,
+        "full_name": "",
+        "mint": "HEqcDLPDBMNeZwmxqqSAq8xGQB28E5BTgNTDm3oxPvGa",
+        "name": "HEqcDLPD...PvGa",
+        "symbol": "HEqcDLPD...PvGa",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "GtN2MYXrJKtHYpJMyb7jzGB2K1em2nKTqpin8WkNUtSd",
+        "name": "GtN2MYXr...UtSd",
+        "symbol": "GtN2MYXr...UtSd",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "5ERYMCw1zzptro8uw8V4U9KiLWSL9Ry9Q5Qxs6HSynHg",
+        "name": "5ERYMCw1...ynHg",
+        "symbol": "5ERYMCw1...ynHg",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "4BWPLn5X1P4STzxDJ2r6qyntCbFPaLCfq82WFT4aASST",
+        "name": "4BWPLn5X...ASST",
+        "symbol": "4BWPLn5X...ASST",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "DDP21je6mKPiZnbhsHWxfXHYDEcqwAXb8KKbsLmJHYie",
+        "name": "DDP21je6...HYie",
+        "symbol": "DDP21je6...HYie",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "3K4qYX5gBLVRotFLe5iDpEEyaCLSo4JP8i7TMUsib4Tu",
+        "name": "3K4qYX5g...b4Tu",
+        "symbol": "3K4qYX5g...b4Tu",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "3gigDvmgCuz2gWRhr6iSxH1gCd1k4LpYoUsxEjLWJcLB",
+        "name": "3gigDvmg...JcLB",
+        "symbol": "3gigDvmg...JcLB",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "CB2tdxBWff6oU3y8Gis1rjRe2LfvxtFwTkcWrFHan3db",
+        "name": "CB2tdxBW...n3db",
+        "symbol": "CB2tdxBW...n3db",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "E3fpnT6Mnc7KRCDYVDeHEgdDbnPRKU9Eha5Lp3NJJQdE",
+        "name": "E3fpnT6M...JQdE",
+        "symbol": "E3fpnT6M...JQdE",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "GkiLvPrtfzaCm4m8qS8XCzFmSk2uJrP5vcVnhFBk6P7j",
+        "name": "GkiLvPrt...6P7j",
+        "symbol": "GkiLvPrt...6P7j",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "6X2yTPidh2AFCMdSeAYoKTRa8KveqgLegP9RWxyAEzQA",
+        "name": "6X2yTPid...EzQA",
+        "symbol": "6X2yTPid...EzQA",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "EXnyndNRaqniqWEgzFHFnN8g1dUPQj6emjkuKDK6ZLoA",
+        "name": "EXnyndNR...ZLoA",
+        "symbol": "EXnyndNR...ZLoA",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "2hvKBnhXZVvZadKX5QKkiyU7pVXXe5ZNMZhAoeXJdHxj",
+        "name": "2hvKBnhX...dHxj",
+        "symbol": "2hvKBnhX...dHxj",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "9NiVu3iq5uApkXvLEkCgbFAkgLCcMMXuxX4DxWkAR9Ce",
+        "name": "9NiVu3iq...R9Ce",
+        "symbol": "9NiVu3iq...R9Ce",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "8iRPA6P3ASGgWDnaHz33xZn9jeqLenLpjBgKXHCLiYSp",
+        "name": "8iRPA6P3...iYSp",
+        "symbol": "8iRPA6P3...iYSp",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "8AtMdFpyKcTAq2CqtHpuKXYFaJP8BgGtcPBvWBsqAmMR",
+        "name": "8AtMdFpy...AmMR",
+        "symbol": "8AtMdFpy...AmMR",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "Gs5EobU9GWNGp3kTugPV97ew45vdGj1HWmw9eaRk3nSb",
+        "name": "Gs5EobU9...3nSb",
+        "symbol": "Gs5EobU9...3nSb",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "CHEGnSLuU4VPq9jpb4CsDSipfoekAxAeukuaov2hVz6z",
+        "name": "CHEGnSLu...Vz6z",
+        "symbol": "CHEGnSLu...Vz6z",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "F7noafdjaGYemtq2x5S7wwEEpnd7aajMJuQTCHeRLGqD",
+        "name": "F7noafdj...LGqD",
+        "symbol": "F7noafdj...LGqD",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "3wPZEEM3yZgWY79JscjpKC8agoCYLA6PLQzpQ7TVgNsZ",
+        "name": "3wPZEEM3...gNsZ",
+        "symbol": "3wPZEEM3...gNsZ",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "C6s1XvygZkavD23G2WWiLm1DdH3e795oGJVtVUrRvtiy",
+        "name": "C6s1Xvyg...vtiy",
+        "symbol": "C6s1Xvyg...vtiy",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "9N6rDpCZ7Ct3nrXGLdALQPomSwBJnHiP3BWfrzoJxBne",
+        "name": "9N6rDpCZ...xBne",
+        "symbol": "9N6rDpCZ...xBne",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "83874nZWWKSu7G1A6hfUfptyi2eNjd9fxhotCXVf2Kfc",
+        "name": "83874nZW...2Kfc",
+        "symbol": "83874nZW...2Kfc",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "EGeMJgLaAHkBQ1UaLEBhzscfFsPqWgyaw9Lc4gMav186",
+        "name": "EGeMJgLa...v186",
+        "symbol": "EGeMJgLa...v186",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "9EjLt9DALLRCbfYwMYNtNLtHYEKQBNKW4uP17ohAAP6t",
+        "name": "9EjLt9DA...AP6t",
+        "symbol": "9EjLt9DA...AP6t",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "CWLAETW6Pty2VqPm3MTs47FhVNdQmEPfDm6yZBkQcZz2",
+        "name": "CWLAETW6...cZz2",
+        "symbol": "CWLAETW6...cZz2",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "DCMTawAvaxL5rt5tppSAP2K1RfmNC3AwKvFgmZXvCK3X",
+        "name": "DCMTawAv...CK3X",
+        "symbol": "DCMTawAv...CK3X",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "DoSN2M6XNS4NjiTriESxUFduYKsC89MvT18yAzgvqtRb",
+        "name": "DoSN2M6X...qtRb",
+        "symbol": "DoSN2M6X...qtRb",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "Eb74ypWVhkBB4iAgf77c8s3J3mpik6QKurghqk1Hxxh2",
+        "name": "Eb74ypWV...xxh2",
+        "symbol": "Eb74ypWV...xxh2",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "3tpx51J87f5qQpZ9LqhXwJnHaB7AV1ypZSd3QcHawoxb",
+        "name": "3tpx51J8...woxb",
+        "symbol": "3tpx51J8...woxb",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "AR8urEBBXVbJ5sqcsW5V4a88eSCMXQsYJWueCBUzRY7k",
+        "name": "AR8urEBB...RY7k",
+        "symbol": "AR8urEBB...RY7k",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "DvBkxLBUVBgvRNGakXUs2iaiqa5HacZERV8FgZqLU6ap",
+        "name": "DvBkxLBU...U6ap",
+        "symbol": "DvBkxLBU...U6ap",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "Caw4P6ypHsU2grSUHEUPAKa2g6g5qT1YRcQDJXLRMfDr",
+        "name": "Caw4P6yp...MfDr",
+        "symbol": "Caw4P6yp...MfDr",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "BgiTVxW9uLuHHoafTd2qjYB5xjCc5Y1EnUuYNfmTwhvp",
+        "name": "BgiTVxW9...whvp",
+        "symbol": "BgiTVxW9...whvp",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "8B76p8xtyUxR6EKr7ZhozCMv86GugB3thpcFkeEuGRqH",
+        "name": "8B76p8xt...GRqH",
+        "symbol": "8B76p8xt...GRqH",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "6kTErzxDR7uMjqjbh3cRSyCmd2YxefxHFsmaPURHUcqT",
+        "name": "6kTErzxD...UcqT",
+        "symbol": "6kTErzxD...UcqT",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "PZkvackT12qPefdXNPrQr51cPfsMfSZBjm812kjn1H3",
+        "name": "PZkvackT...n1H3",
+        "symbol": "PZkvackT...n1H3",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "FQhAReiZY4cEHQta4FfC83nyggSPmBC2PFX6fduSekjt",
+        "name": "FQhAReiZ...ekjt",
+        "symbol": "FQhAReiZ...ekjt",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "8Lkb9Rx7MBeiyapnLAiYdHBobbRDJsKXsoVDD2VYoEwE",
+        "name": "8Lkb9Rx7...oEwE",
+        "symbol": "8Lkb9Rx7...oEwE",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "53W6Fj721wuNRf9SjW7idTo7qSWJGNB3MJdtYvjYktbR",
+        "name": "53W6Fj72...ktbR",
+        "symbol": "53W6Fj72...ktbR",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "oVCmPq2mxHn6Z24U8yHGUtP5EbpXcNsGs2NFxSALZSA",
+        "name": "oVCmPq2m...LZSA",
+        "symbol": "oVCmPq2m...LZSA",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "5i56NcmDYTFewCRYRZDkW6WHMXGWoYTY4SivdxFJP8Aj",
+        "name": "5i56NcmD...P8Aj",
+        "symbol": "5i56NcmD...P8Aj",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "f5Apf9cwqTSFESwi8uHuyTAPkREfm2xDEyCVEAFKmRt",
+        "name": "f5Apf9cw...KmRt",
+        "symbol": "f5Apf9cw...KmRt",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "5rmP4ruXhj8Qft7YtHyPofm7XTyaHoeYdBhPztZYzBAt",
+        "name": "5rmP4ruX...zBAt",
+        "symbol": "5rmP4ruX...zBAt",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "5MDe5wQYFnLSWkZBGQ8krjgpu4MQwdswpfB72rVymLry",
+        "name": "5MDe5wQY...mLry",
+        "symbol": "5MDe5wQY...mLry",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "64fYsLWZmo2GywaeshksUxiEm6oLjte6PcmoPMudxZxY",
+        "name": "64fYsLWZ...xZxY",
+        "symbol": "64fYsLWZ...xZxY",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "5qY3fEuA4CoX4SVRd2q7bjL4GG5h62zi6KAXPgCU8RwQ",
+        "name": "5qY3fEuA...8RwQ",
+        "symbol": "5qY3fEuA...8RwQ",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "GkCYKY6iLuNjoRmNuBHDRMUtcUCSE5buiQpPeq9iuq5u",
+        "name": "GkCYKY6i...uq5u",
+        "symbol": "GkCYKY6i...uq5u",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "9nx3iXybhbLi64EefxdMyZ2FiGLxcPW5smQ2upYezAQt",
+        "name": "9nx3iXyb...zAQt",
+        "symbol": "9nx3iXyb...zAQt",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "HREk65KiSb8eQJkQx9WYT8dEwzBBfN5sDcg8nQPFcTsN",
+        "name": "HREk65Ki...cTsN",
+        "symbol": "HREk65Ki...cTsN",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "8EyoKd83jRf6mBDXnAFNyE9zsAmQcSLS8TM8LGwbLYTp",
+        "name": "8EyoKd83...LYTp",
+        "symbol": "8EyoKd83...LYTp",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "CW74EPa7gDrQtchmmTUs9EusCLsZNo6AxtZMxsJfnrN9",
+        "name": "CW74EPa7...nrN9",
+        "symbol": "CW74EPa7...nrN9",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "CCJ73enCHai27dS79uhqMYMGoehVQsP1YECyDq9xvyt9",
+        "name": "CCJ73enC...vyt9",
+        "symbol": "CCJ73enC...vyt9",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "FKKHKPeRjnqVcSdDbqZmRTsodpT9inro2A6jRz9m6D24",
+        "name": "FKKHKPeR...6D24",
+        "symbol": "FKKHKPeR...6D24",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "AJ65eRv9S8FMCgQnZoTtdREHCwt96qTnBCjCNVV2oauN",
+        "name": "AJ65eRv9...oauN",
+        "symbol": "AJ65eRv9...oauN",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "8imZJmscKxshCu1zJDNy8odiweE5hC2gH6ktcZrpDtzp",
+        "name": "8imZJmsc...Dtzp",
+        "symbol": "8imZJmsc...Dtzp",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "8wh7C3nAaegLYvFp5CCM2qsxi1VU9k35e7UZTEaqixQq",
+        "name": "8wh7C3nA...ixQq",
+        "symbol": "8wh7C3nA...ixQq",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "A3ip3oLFrCSWu7KdFgP8xbXUWVUgceaUaubg6XF8SxEy",
+        "name": "A3ip3oLF...SxEy",
+        "symbol": "A3ip3oLF...SxEy",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "Cmvhycb6LQvvzaShGw4iDHRLzeSSryioAsU98DSSkMNa",
+        "name": "Cmvhycb6...kMNa",
+        "symbol": "Cmvhycb6...kMNa",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "6kgCVTnwEXvPpRetci6P2kQ624CMFaVmZdgwuVaZxh8C",
+        "name": "6kgCVTnw...xh8C",
+        "symbol": "6kgCVTnw...xh8C",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "FawTcAj55Y7gD2eV9Z3GrBsF6iCj6LFSsvL4pQF9Tgj2",
+        "name": "FawTcAj5...Tgj2",
+        "symbol": "FawTcAj5...Tgj2",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "6oUpdzSwKfdRZLBKGryYxTacZfckbaLX18zz8RYXWyJf",
+        "name": "6oUpdzSw...WyJf",
+        "symbol": "6oUpdzSw...WyJf",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "2znw8JBTW1w2HBNiRwsTpbunjZVZ3uiGdHUt9M72i2oN",
+        "name": "2znw8JBT...i2oN",
+        "symbol": "2znw8JBT...i2oN",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "6Hs35Lp6sbfYCMT9QNATbTXU9eNjDWp1Vi7nG3NxWUF2",
+        "name": "6Hs35Lp6...WUF2",
+        "symbol": "6Hs35Lp6...WUF2",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.0,
+        "full_name": "",
+        "mint": "HNhv5zJNCVAi75ohQSBRBKdLDyD7wBaYkUYxpTEV7emS",
+        "name": "HNhv5zJN...7emS",
+        "symbol": "HNhv5zJN...7emS",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.75,
+        "full_name": "",
+        "mint": "GYCVdmDthkf3jSz5ns6fkzCmHub7FSZxjVCfbfGqkH7P",
+        "name": "GYCVdmDt...kH7P",
+        "symbol": "GYCVdmDt...kH7P",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.69,
+        "full_name": "",
+        "mint": "oMscGPj1wqxiu664H5nzJQMay8yQgTVRqYNTLtYpump",
+        "name": "oMscGPj1...pump",
+        "symbol": "oMscGPj1...pump",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.24075,
+        "full_name": "",
+        "mint": "BDrL8huis6S5tpmozaAaT5zhE5A7ZBAB2jMMvpKEeF8A",
+        "name": "BDrL8hui...eF8A",
+        "symbol": "BDrL8hui...eF8A",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.233429256,
+        "full_name": "",
+        "mint": "nope9HWCJcXVFkG49CDk7oYFtgGsUzsRvHdcJeL2aCL",
+        "name": "nope9HWC...2aCL",
+        "symbol": "nope9HWC...2aCL",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.19,
+        "full_name": "",
+        "mint": "ABE7D8RU1eHfCJWzHYZZeymeE8k9nPPXfqge2NQYyKoL",
+        "name": "ABE7D8RU...yKoL",
+        "symbol": "ABE7D8RU...yKoL",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.1805,
+        "full_name": "",
+        "mint": "J9ScmJd1bmwzen5RGLHDmNzBkfPxF2W8qrBViveNxoMh",
+        "name": "J9ScmJd1...xoMh",
+        "symbol": "J9ScmJd1...xoMh",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.06853685,
+        "full_name": "",
+        "mint": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
+        "name": "DYDWu4hE...iKun",
+        "symbol": "DYDWu4hE...iKun",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.002020999,
+        "full_name": "",
+        "mint": "Ce3PSQfkxT5ua4r2JqCoWYrMwKWC5hEzwsrT9Hb7mAz9",
+        "name": "Ce3PSQfk...mAz9",
+        "symbol": "Ce3PSQfk...mAz9",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.000718,
+        "full_name": "",
+        "mint": "6cKnRJskSTonD6kZiWt2Fy3NB6ZND6CbgA3vHiZ1kHEU",
+        "name": "6cKnRJsk...kHEU",
+        "symbol": "6cKnRJsk...kHEU",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 0.000124,
+        "full_name": "",
+        "mint": "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
+        "name": "2jXy799Y...1DaP",
+        "symbol": "2jXy799Y...1DaP",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1e-05,
+        "full_name": "",
+        "mint": "cMETAGX549J6Z5wLWDVHKxEmBibh8YkWvFftCRyaw2a",
+        "name": "cMETAGX5...aw2a",
+        "symbol": "cMETAGX5...aw2a",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 8.702e-06,
+        "full_name": "",
+        "mint": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
+        "name": "AJ1W9A9N...apgX",
+        "symbol": "AJ1W9A9N...apgX",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 3.851e-06,
+        "full_name": "",
+        "mint": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+        "name": "JEFFSQ3s...XBm1",
+        "symbol": "JEFFSQ3s...XBm1",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 2e-06,
+        "full_name": "",
+        "mint": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+        "name": "CASHVDm2...5woT",
+        "symbol": "CASHVDm2...5woT",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.83e-06,
+        "full_name": "",
+        "mint": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
+        "name": "SL819j8K...ySYj",
+        "symbol": "SL819j8K...ySYj",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 8.74e-07,
+        "full_name": "",
+        "mint": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
+        "name": "AEUT5uFm...AhTV",
+        "symbol": "AEUT5uFm...AhTV",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 6.47e-07,
+        "full_name": "",
+        "mint": "GFX1ZjR2P15tmrSwow6FjyDYcEkoFb4p4gJCpLBjaxHD",
+        "name": "GFX1ZjR2...axHD",
+        "symbol": "GFX1ZjR2...axHD",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 5.7e-07,
+        "full_name": "",
+        "mint": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
+        "name": "SBTCB6pW...gSRv",
+        "symbol": "SBTCB6pW...gSRv",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 4.11e-07,
+        "full_name": "",
+        "mint": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
+        "name": "CXLBjMMc...4MRm",
+        "symbol": "CXLBjMMc...4MRm",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 1.006e-07,
+        "full_name": "",
+        "mint": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
+        "name": "BtX7AfzE...hPvi",
+        "symbol": "BtX7AfzE...hPvi",
+        "usd_price": 0.0,
+        "usd_value": 0.0
+      },
+      {
+        "amount": 9.1e-08,
+        "full_name": "",
+        "mint": "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
+        "name": "2kycGCD8...7uak",
+        "symbol": "2kycGCD8...7uak",
+        "usd_price": 0.0,
+        "usd_value": 0.0
       },
       {
         "amount": 5e-09,
+        "full_name": "",
         "mint": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
-        "name": "KNVfdSJy...wdma"
+        "name": "KNVfdSJy...wdma",
+        "symbol": "KNVfdSJy...wdma",
+        "usd_price": 0.0,
+        "usd_value": 0.0
       },
       {
         "amount": 2e-09,
+        "full_name": "",
         "mint": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
-        "name": "FACTQhZB...rxC5"
+        "name": "FACTQhZB...rxC5",
+        "symbol": "FACTQhZB...rxC5",
+        "usd_price": 0.0,
+        "usd_value": 0.0
       },
       {
         "amount": 1e-09,
+        "full_name": "",
         "mint": "CCPSqDhvJtJpovDRfKdWsVLdo5aYoJumV3f38y2CXhCz",
-        "name": "CCPSqDhv...XhCz"
+        "name": "CCPSqDhv...XhCz",
+        "symbol": "CCPSqDhv...XhCz",
+        "usd_price": 0.0,
+        "usd_value": 0.0
       },
       {
         "amount": 1e-09,
+        "full_name": "",
         "mint": "57h4LEnBooHrKbacYWGCFghmrTzYPVn8PwZkzTzRLvHa",
-        "name": "57h4LEnB...LvHa"
+        "name": "57h4LEnB...LvHa",
+        "symbol": "57h4LEnB...LvHa",
+        "usd_price": 0.0,
+        "usd_value": 0.0
       }
     ],
-    "timestamp": "2026-04-04 12:46",
-    "last_signature": "3SsFaM21P5pvHrSVtRxPq4unKtZo81vJG768e3WCaR5E9uXCmjQEaMTTr2anH98NoYKYtUGkrhiAZz2QwmxqfMgP"
+    "pnl": {},
+    "timestamp": "2026-04-04 14:49",
+    "last_signature": "3SsFaM21P5pvHrSVtRxPq4unKtZo81vJG768e3WCaR5E9uXCmjQEaMTTr2anH98NoYKYtUGkrhiAZz2QwmxqfMgP",
+    "watched": false
+  },
+  "AFV8WbanMdcBjatLa8GCGLik2gjyuunRUbJN92nHrKEB": {
+    "wallet": "AFV8WbanMdcBjatLa8GCGLik2gjyuunRUbJN92nHrKEB",
+    "result": {
+      "risk_level": "BİLİNMİYOR",
+      "investor_type": "Hayalet",
+      "analysis": "Bu cüzdan sessizliğin kendisi. Veri yok."
+    },
+    "portfolio": [],
+    "timestamp": "2026-04-04 13:01",
+    "last_signature": null
+  },
+  "HRgZoqjQepGeHxNa2yQo6V5c4FvBvZjMg3Z9qmusvFDw": {
+    "wallet": "HRgZoqjQepGeHxNa2yQo6V5c4FvBvZjMg3Z9qmusvFDw",
+    "result": {
+      "risk_level": "BİLİNMİYOR",
+      "investor_type": "Hayalet",
+      "analysis": "Bu cüzdan sessizliğin kendisi. Veri yok."
+    },
+    "portfolio": [],
+    "timestamp": "2026-04-04 13:02",
+    "last_signature": null
+  },
+  "5tzFkiKscXHK5ZXCGbXZcmAzMq6iBNmDi57X9SqRXwiY": {
+    "wallet": "5tzFkiKscXHK5ZXCGbXZcmAzMq6iBNmDi57X9SqRXwiY",
+    "result": {
+      "risk_level": "BİLİNMİYOR",
+      "investor_type": "Hayalet",
+      "analysis": "Bu cüzdan sessizliğin kendisi. Veri yok.",
+      "recommendations": []
+    },
+    "portfolio": [],
+    "pnl": {},
+    "timestamp": "2026-04-04 14:40",
+    "last_signature": null,
+    "watched": false
+  },
+  "EKpQGSJtjMFqKZ9KQanEXYqgEK2pDqD6aWe1R3DMyb4V": {
+    "wallet": "EKpQGSJtjMFqKZ9KQanEXYqgEK2pDqD6aWe1R3DMyb4V",
+    "result": {
+      "risk_level": "BİLİNMİYOR",
+      "investor_type": "Hayalet",
+      "analysis": "Bu cüzdan sessizliğin kendisi. Veri yok.",
+      "recommendations": []
+    },
+    "portfolio": [],
+    "pnl": {},
+    "timestamp": "2026-04-04 14:42",
+    "last_signature": null,
+    "watched": false
+  },
+  "JUP6LkbZbjS1jKKwapdH67y958k9mZtEwVAg6mR7zJt": {
+    "wallet": "JUP6LkbZbjS1jKKwapdH67y958k9mZtEwVAg6mR7zJt",
+    "result": {
+      "risk_level": "BİLİNMİYOR",
+      "investor_type": "Hayalet",
+      "analysis": "Bu cüzdan sessizliğin kendisi. Veri yok.",
+      "recommendations": []
+    },
+    "portfolio": [],
+    "pnl": {},
+    "timestamp": "2026-04-04 14:42",
+    "last_signature": null,
+    "watched": false
+  },
+  "9KRZoryUmwnb79F7CEZuMNgmZxAKqPzhZQpUYS65cZW1": {
+    "wallet": "9KRZoryUmwnb79F7CEZuMNgmZxAKqPzhZQpUYS65cZW1",
+    "result": {
+      "risk_level": "BİLİNMİYOR",
+      "investor_type": "Hayalet",
+      "analysis": "Bu cüzdan sessizliğin kendisi. Veri yok.",
+      "recommendations": []
+    },
+    "portfolio": [],
+    "pnl": {},
+    "timestamp": "2026-04-04 14:48",
+    "last_signature": null,
+    "watched": false
+  },
+  "FqGj897F6C5RRvyEtvyVPBF7DD8F41Ycp9NpGivXHCQN": {
+    "wallet": "FqGj897F6C5RRvyEtvyVPBF7DD8F41Ycp9NpGivXHCQN",
+    "result": {
+      "risk_level": "BİLİNMİYOR",
+      "investor_type": "Hayalet",
+      "analysis": "Bu cüzdan sessizliğin kendisi. Veri yok.",
+      "recommendations": []
+    },
+    "portfolio": [],
+    "pnl": {},
+    "timestamp": "2026-04-04 14:48",
+    "last_signature": null,
+    "watched": false
+  },
+  "G82Z8NZRjMkrHbsERT26chDXT42H3bcrsfwFvKuF1sf9": {
+    "wallet": "G82Z8NZRjMkrHbsERT26chDXT42H3bcrsfwFvKuF1sf9",
+    "result": {
+      "risk_level": "DÜŞÜK",
+      "investor_type": "Pasif HODLer Ninja",
+      "analysis": "Bu cüzdanın işlem örüntüleri, düşük aktivite gösteriyor. Son işlem, bir SOL transferi ve herhangi bir token işleminin bulunmaması, bu kullanıcının aktif olarak yatırım yapmadığını veya yeni bir kullanıcı olduğunu gösteriyor. İşlemler çok sık नह gemacht edilmiyor ve sadece bir adet işlem bulunuyor.",
+      "recommendations": [
+        {
+          "action": "SOL stake et",
+          "reason": "Bu cüzdanın düşük aktivitesine rağmen, var olan SOL'ları stake ederek pasif gelir elde edebilir.",
+          "risk": "düşük"
+        },
+        {
+          "action": "Diğer varlıkları Solana cüzdanına ekle",
+          "reason": "Cüzdanın boş olması, yeni varlıklar eklenerek çeşitlendirilebilir. Bu, potansiyel kazançları artırabilir.",
+          "risk": "orta"
+        },
+        {
+          "action": "Düzenli aralıklarla cüzdanı kontrol et",
+          "reason": "Bu cüzdanın düşük aktivitesine rağmen, düzenli kontroller ile olası sorunlar veya fırsatlar erkenden tespit edilebilir.",
+          "risk": "düşük"
+        }
+      ]
+    },
+    "portfolio": [],
+    "pnl": {},
+    "timestamp": "2026-04-04 14:48",
+    "last_signature": "5FZtdyu5gghZcWQArECCpnrVCYnLUULEidNubkTNCp46FcxnrPabVV4xfwxWAmYe7AqeHFpLyVbMSuoYnkFaYd1C",
+    "watched": false
   }
 }
