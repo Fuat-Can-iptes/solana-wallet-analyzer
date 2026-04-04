@@ -4,6 +4,7 @@ from core.ai_analyzer import AIAnalyzer
 fetcher = SolanaDataFetcher()
 analyzer = AIAnalyzer()
 
+# Devnet: işlem görmüş bir adres kullan (Phantom Devnet + faucet).
 TEST_WALLET = "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM"
 
 print("1. Veri çekiliyor...")

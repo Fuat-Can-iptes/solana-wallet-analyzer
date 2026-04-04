@@ -30,16 +30,17 @@ class HistoryManager:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
     def save_analysis(self, wallet: str, result: dict,
-                  portfolio: list, pnl: dict = None):
+                      portfolio: list, pnl: dict = None):
         data = self._load()
+        prev = data.get(wallet, {})
         data[wallet] = {
             "wallet":     wallet,
             "result":     result,
             "portfolio":  portfolio,
             "pnl":        pnl or {},
             "timestamp":  datetime.now().strftime("%Y-%m-%d %H:%M"),
-            "last_signature": None,
-            "watched":      False,
+            "last_signature": prev.get("last_signature"),
+            "watched":      prev.get("watched", False),
         }
         self._save(data)
 

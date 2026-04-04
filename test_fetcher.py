@@ -2,7 +2,7 @@ from core.solana_fetcher import SolanaDataFetcher
 
 fetcher = SolanaDataFetcher()
 
-# Aktif bir Solana cüzdanı (Phantom'ın resmi adresi)
+# Devnet: Phantom'ı Devnet'e alıp kendi adresini veya musluktan SOL alan bir adresi kullan.
 TEST_WALLET = "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM"
 
 txs = fetcher.get_clean_transactions(TEST_WALLET)

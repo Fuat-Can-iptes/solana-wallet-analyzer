@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Phantom ile bağlan</title>
+<style>
+body { font-family: system-ui, sans-serif; background:#0f0f1a; color:#e0e0ff; padding:2rem; max-width:560px; margin:auto; }
+button { background:#ab9ff2; color:#111; border:none; padding:12px 24px; font-size:1rem; border-radius:8px; cursor:pointer; font-weight:600; }
+button:disabled { opacity:0.5; cursor:not-allowed; }
+.err { color:#ff6b6b; margin-top:1rem; white-space:pre-wrap; }
+.ok { color:#14f195; margin-top:1rem; }
+p { line-height:1.55; opacity:0.92; }
+code { background:#1a1a2e; padding:2px 6px; border-radius:4px; }
+</style>
+</head>
+<body>
+<h1>Cüzdan bağlantısı</h1>
+<p>Bu sayfa yalnızca <strong>public key</strong> (cüzdan adresi) gönderir; özel anahtar istenmez.</p>
+<p>Phantom’da ağı <strong>__CLUSTER_LABEL__</strong> ile uygulama ayarınla eşleştir (Devnet / Mainnet).</p>
+<p>Tarayıcı: Chrome veya Brave önerilir; Phantom eklentisi bu tarayıcıda kurulu olmalı.</p>
+<button id="btn" type="button">Phantom ile bağlan</button>
+<div id="msg"></div>
+<script>
+(function(){
+  const btn = document.getElementById('btn');
+  const msg = document.getElementById('msg');
+  function getProvider() {
+    if (window.solana && window.solana.isPhantom) return window.solana;
+    if (window.phantom && window.phantom.solana) return window.phantom.solana;
+    return null;
+  }
+  btn.addEventListener('click', async function() {
+    const p = getProvider();
+    if (!p) {
+      msg.className = 'err';
+      msg.textContent = 'Phantom bulunamadı. Chrome/Brave’e eklentiyi kur ve bu adresi (127.0.0.1) o tarayıcıda aç.';
+      return;
+    }
+    try {
+      btn.disabled = true;
+      await p.connect({ onlyIfTrusted: false });
+      const pub = p.publicKey;
+      if (!pub) throw new Error('publicKey alınamadı');
+      const pk = typeof pub.toBase58 === 'function' ? pub.toBase58() : String(pub);
+      const r = await fetch('/api/connected', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ publicKey: pk })
+      });
+      if (!r.ok) throw new Error('Uygulama yanıt vermedi (400)');
+      msg.className = 'ok';
+      msg.textContent = 'Bağlandı. Bu sekmeyi kapatabilirsin; adres masaüstü uygulamasına aktarıldı.';
+    } catch (e) {
+      btn.disabled = false;
+      msg.className = 'err';
+      msg.textContent = 'Hata: ' + (e && e.message ? e.message : e);
+    }
+  });
+})();
+</script>
+</body>
+</html>

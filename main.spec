@@ -1,11 +1,14 @@
 # -*- mode: python ; coding: utf-8 -*-
 
+import os
+
+_spec_dir = os.path.dirname(os.path.abspath(SPEC))
 
 a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[(os.path.join(_spec_dir, 'assets'), 'assets')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},

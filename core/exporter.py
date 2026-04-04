@@ -2,6 +2,7 @@
 
 import os
 from datetime import datetime
+from xml.sax.saxutils import escape
 
 
 class Exporter:
@@ -30,6 +31,9 @@ class Exporter:
                 f"   Neden : {rec.get('reason', '')}",
                 f"   Risk  : {rec.get('risk', '')}",
             ]
+            det = (rec.get("detail") or "").strip()
+            if det:
+                lines.append(f"   Detay : {det}")
 
         lines += ["", "── PORTFÖY " + "─" * 49]
         for token in portfolio:
@@ -89,21 +93,25 @@ class Exporter:
 
         # Analiz
         story.append(Paragraph("Analiz", head_style))
-        story.append(Paragraph(result.get("analysis", ""), body_style))
+        _an = escape(result.get("analysis", "")).replace("\n", "<br/>")
+        story.append(Paragraph(_an, body_style))
         story.append(Spacer(1, 0.4 * cm))
 
         # Tavsiyeler
         story.append(Paragraph("Yatırım Tavsiyeleri", head_style))
         for i, rec in enumerate(result.get("recommendations", []), 1):
             story.append(Paragraph(
-                f"<b>{i}. {rec.get('action', '')}</b>", body_style
+                f"<b>{i}. {escape(str(rec.get('action', '')))}</b>", body_style
             ))
+            _r = escape(str(rec.get("reason", ""))).replace("\n", "<br/>")
+            story.append(Paragraph(f"Neden: {_r}", body_style))
             story.append(Paragraph(
-                f"Neden: {rec.get('reason', '')}", body_style
+                f"Risk: {escape(str(rec.get('risk', '')))}", body_style
             ))
-            story.append(Paragraph(
-                f"Risk: {rec.get('risk', '')}", body_style
-            ))
+            det = (rec.get("detail") or "").strip()
+            if det:
+                _d = escape(det).replace("\n", "<br/>")
+                story.append(Paragraph(f"Detay: {_d}", body_style))
             story.append(Spacer(1, 0.2 * cm))
 
         # Portföy tablosu

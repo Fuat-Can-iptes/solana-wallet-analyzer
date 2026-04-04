@@ -175,6 +175,12 @@ QTextEdit:focus {
     border-color: #4a4a7a;
 }
 
+QTextEdit#compareVerdict {
+    background-color: #141428;
+    border: 1px solid #4a3a6a;
+    font-size: 12px;
+}
+
 /* ── Kaydırma Çubuğu ─────────────────────────────────────── */
 QScrollBar:vertical {
     background-color: #0d0d1a;
@@ -336,6 +342,7 @@ QSplitter::handle:hover {
 /* ── Tablo ───────────────────────────────────────────────── */
 QTableWidget {
     background-color: #12121f;
+    alternate-background-color: #171726;
     border: 1px solid #2a2a45;
     border-radius: 6px;
     gridline-color: #2a2a45;

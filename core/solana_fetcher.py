@@ -2,14 +2,19 @@
 
 import requests
 import datetime
-from config.settings import HELIUS_API_KEY, HELIUS_RPC_URL, MAX_TRANSACTIONS
+from config.settings import (
+    HELIUS_API_KEY,
+    HELIUS_ENHANCED_API_BASE,
+    HELIUS_RPC_URL,
+    MAX_TRANSACTIONS,
+)
 
 
 class SolanaDataFetcher:
 
     def __init__(self):
         self.enhanced_url = (
-            f"https://api.helius.xyz/v0/addresses/"
+            f"{HELIUS_ENHANCED_API_BASE}/v0/addresses/"
             f"{{address}}/transactions?api-key={HELIUS_API_KEY}"
             f"&limit={MAX_TRANSACTIONS}"
         )

@@ -1,6 +1,8 @@
 # core/worker.py
 
 from PyQt6.QtCore import QThread, pyqtSignal
+
+from config.settings import IS_DEVNET, SOLANA_CLUSTER_LABEL
 from core.solana_fetcher import SolanaDataFetcher
 from core.ai_analyzer import AIAnalyzer
 from core.price_fetcher import PriceFetcher
@@ -23,7 +25,9 @@ class AnalysisWorker(QThread):
 
     def run(self):
         try:
-            self.progress.emit("🔗 Solana ağına bağlanılıyor...")
+            self.progress.emit(
+                f"🔗 {SOLANA_CLUSTER_LABEL} ağına bağlanılıyor..."
+            )
             transactions = self.fetcher.get_clean_transactions(self.wallet_address)
 
             self.progress.emit("💼 Token portföyü çekiliyor...")
@@ -32,7 +36,11 @@ class AnalysisWorker(QThread):
             except Exception:
                 raw_portfolio = []
 
-            self.progress.emit("💰 Fiyat verileri alınıyor...")
+            self.progress.emit(
+                "💰 Devnet: USD fiyat atlanıyor..."
+                if IS_DEVNET
+                else "💰 Fiyat verileri alınıyor..."
+            )
             try:
                 portfolio = self.pricer.enrich_portfolio(raw_portfolio)
             except Exception:

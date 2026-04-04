@@ -2,7 +2,8 @@
 
 from matplotlib.backends.backend_qtagg import FigureCanvasQTAgg
 from matplotlib.figure import Figure
-import matplotlib.pyplot as plt
+
+from core.portfolio_utils import token_label
 
 
 class PortfolioPieChart(FigureCanvasQTAgg):
@@ -14,22 +15,25 @@ class PortfolioPieChart(FigureCanvasQTAgg):
     ]
 
     def __init__(self, parent=None):
-        self.fig = Figure(figsize=(4, 3), facecolor="#12121f")
+        # Geniş figür: sağda lejant için alan
+        self.fig = Figure(figsize=(4.2, 3.4), facecolor="#12121f")
         super().__init__(self.fig)
         self.setParent(parent)
         self.ax = self.fig.add_subplot(111)
         self._draw_empty()
 
-    def _draw_empty(self):
+    def _draw_empty(self, message: str = "Analiz bekleniyor"):
         self.ax.clear()
         self.ax.set_facecolor("#12121f")
+        self.fig.patch.set_facecolor("#12121f")
         self.ax.text(
-            0.5, 0.5, "Analiz bekleniyor",
+            0.5, 0.5, message,
             ha="center", va="center",
-            color="#555577", fontsize=10,
+            color="#8888aa", fontsize=10,
             transform=self.ax.transAxes,
         )
         self.ax.axis("off")
+        self.fig.subplots_adjust(left=0.02, right=0.98, top=0.94, bottom=0.06)
         self.draw()
 
     def update_chart(self, portfolio: list[dict]):
@@ -37,51 +41,82 @@ class PortfolioPieChart(FigureCanvasQTAgg):
         self.ax.set_facecolor("#12121f")
         self.fig.patch.set_facecolor("#12121f")
 
-        # Sadece USD değeri olan tokenları al, max 8 slice
-        data = [t for t in portfolio if t.get("usd_value", 0) > 0]
-        if not data:
-            self._draw_empty()
+        if not portfolio:
+            self._draw_empty("Portföy boş")
             return
 
-        data = sorted(data, key=lambda x: x["usd_value"], reverse=True)
+        total_usd = sum(float(t.get("usd_value") or 0) for t in portfolio)
 
-        # 8'den fazlaysa geri kalanları "Diğer" olarak grupla
-        if len(data) > 8:
-            top   = data[:7]
-            other = sum(t["usd_value"] for t in data[7:])
-            labels = [t.get("symbol", t["name"][:6]) for t in top] + ["Diğer"]
-            sizes  = [t["usd_value"] for t in top] + [other]
+        if total_usd > 0:
+            data = [
+                t for t in portfolio
+                if float(t.get("usd_value") or 0) > 0
+            ]
+            value_fn = lambda t: float(t.get("usd_value") or 0)
+            unit = "USD"
         else:
-            labels = [t.get("symbol", t["name"][:6]) for t in data]
-            sizes  = [t["usd_value"] for t in data]
+            data = [
+                t for t in portfolio
+                if float(t.get("amount") or 0) > 0
+            ]
+            value_fn = lambda t: float(t.get("amount") or 0)
+            unit = "miktar"
 
-        colors = self.COLORS[:len(sizes)]
+        if not data:
+            self._draw_empty("Gösterilecek bakiye yok")
+            return
+
+        data = sorted(data, key=value_fn, reverse=True)
+        total_val = sum(value_fn(t) for t in data)
+        if total_val <= 0:
+            self._draw_empty("Toplam değer sıfır")
+            return
+
+        if len(data) > 8:
+            top = data[:7]
+            other_val = sum(value_fn(t) for t in data[7:])
+            labels = [token_label(t) for t in top] + ["Diğer"]
+            sizes = [value_fn(t) for t in top] + [other_val]
+        else:
+            labels = [token_label(t) for t in data]
+            sizes = [value_fn(t) for t in data]
+
+        colors = self.COLORS[: len(sizes)]
+        explode = [0.02] * len(sizes)
 
         wedges, texts, autotexts = self.ax.pie(
             sizes,
             labels=None,
+            explode=explode,
             colors=colors,
-            autopct=lambda p: f"{p:.1f}%" if p > 4 else "",
+            autopct=lambda p: f"{p:.0f}%" if p >= 5 else "",
             startangle=90,
-            wedgeprops={"linewidth": 0.5, "edgecolor": "#12121f"},
-            pctdistance=0.75,
+            wedgeprops={"linewidth": 0.6, "edgecolor": "#12121f"},
+            pctdistance=0.72,
+            textprops={"color": "#ffffff", "fontsize": 8},
         )
 
         for at in autotexts:
             at.set_color("#ffffff")
             at.set_fontsize(8)
 
-        # Legend
+        self.ax.set_title(
+            f"Dağılım ({unit})",
+            color="#c8c8ee", fontsize=10, pad=6,
+        )
+
         self.ax.legend(
-            wedges, labels,
-            loc="lower center",
-            bbox_to_anchor=(0.5, -0.15),
-            ncol=4,
+            wedges,
+            labels,
+            loc="center left",
+            bbox_to_anchor=(1.02, 0.5),
             fontsize=7,
-            frameon=False,
-            labelcolor="#8888aa",
+            frameon=True,
+            facecolor="#1a1a2e",
+            edgecolor="#2a2a45",
+            labelcolor="#c8c8ee",
         )
 
         self.ax.axis("equal")
-        self.fig.tight_layout(pad=0.5)
+        self.fig.subplots_adjust(left=0.02, right=0.68, top=0.88, bottom=0.06)
         self.draw()
