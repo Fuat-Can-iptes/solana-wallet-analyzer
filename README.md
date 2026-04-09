@@ -27,3 +27,9 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 1. Depoyu bilgisayarınıza klonlayın:
    ```bash
    git clone [https://github.com/Bekirsimsek/solana-wallet-analyzer.git](https://github.com/Bekirsimsek/solana-wallet-analyzer.git)
+
+
+   ### Katkıda Bulunanlar
+   *Bekir Şimşek
+   *Fuat Can İpteş
+   *Oğuz Şahan Saraçoğlu
