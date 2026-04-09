@@ -5,6 +5,11 @@
 
 Masaüstü ortamında Solana ağındaki cüzdanları derinlemesine analiz etmek için geliştirilmiş, hızlı ve kullanıcı dostu bir uygulama. Bu araç; cüzdan bakiyelerini, işlem geçmişini ve ağ etkileşimlerini doğrudan masaüstünüzden takip etmenizi sağlar.
 
+  ### Katkıda Bulunanlar
+   *Bekir Şimşek
+   *Fuat Can İpteş
+   *Oğuz Şahan Saraçoğlu
+
 ## ✨ Özellikler
 
 - **Masaüstü Arayüzü:** Hızlı ve akıcı kullanım için tasarlanmış grafik kullanıcı arayüzü (GUI).
@@ -29,7 +34,4 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
    git clone [https://github.com/Bekirsimsek/solana-wallet-analyzer.git](https://github.com/Bekirsimsek/solana-wallet-analyzer.git)
 
 
-   ### Katkıda Bulunanlar
-   *Bekir Şimşek
-   *Fuat Can İpteş
-   *Oğuz Şahan Saraçoğlu
+ 
